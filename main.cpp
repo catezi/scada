@@ -34,17 +34,20 @@ struct target {
     int port;
 };
 /**
-    connect server
+    create client
 */
 static int http_tcpclient_create(){
     int socket_fd;
-    if((socket_fd = socket(AF_INET,SOCK_STREAM,0))==-1){
+    if((socket_fd = socket(AF_INET,SOCK_STREAM,0)) == -1){
         return -1;
     }
     return socket_fd;
 }
-
+/**
+    connect server
+*/
 static int http_tcpclient_connect(int socket_fd, char* host, int port, struct hostent *he, struct sockaddr_in *server_addr) {
+    cout << "http_tcpclient_connect start" << endl;
     if (socket_fd == -1) {
         return -1;
     }
@@ -57,6 +60,7 @@ static int http_tcpclient_connect(int socket_fd, char* host, int port, struct ho
     if(connect(socket_fd, (struct sockaddr *)server_addr,sizeof(struct sockaddr)) == -1){
         return -1;
     }
+    cout << "http_tcpclient_connect finish" << endl;
     return socket_fd;
 }
 /**
@@ -71,7 +75,7 @@ static void http_tcpclient_close(int socket){
 */
 static int http_tcpclient_send(int socket,char *buff,int size){
     int sent=0,tmpres=0;
-
+    cout << "http_tcpclient_send start" << endl;
     while(sent < size){
         tmpres = send(socket,buff+sent,size-sent,0);
         if(tmpres == -1){
@@ -79,6 +83,7 @@ static int http_tcpclient_send(int socket,char *buff,int size){
         }
         sent += tmpres;
     }
+    cout << "httptcp_client_send finish" << endl;
     return sent;
 }
 
@@ -89,6 +94,7 @@ static int http_tcpclient_send(int socket,char *buff,int size){
 static int http_tcpclient_recv(int socket, char buff[]){
     int i = 0;
     int res = 0;
+    cout << "http_tcpclient_recv start" << endl;
     char lpbuff[BUFFER_SIZE*4] = {'\0'};
     while ((res = recv(socket, lpbuff, BUFFER_SIZE*4, 0)) > 0) {
         strcat(buff, lpbuff);
@@ -102,6 +108,7 @@ static int http_tcpclient_recv(int socket, char buff[]){
     if (i == 0) {
         return -1;
     }
+    cout << "http_tcpclient_recv finish" << endl;
     return i;
 }
 
@@ -138,7 +145,7 @@ int http_get(char *host, int port, int socket_fd, struct hostent *he, struct soc
 {
     char file[BUFFER_SIZE] = {'\0'};
     char sendbuf[BUFFER_SIZE*4] = {'\0'};
-
+    cout << "http_get start" << endl;
     if(!host){
         printf("      failed!\n");
         return -1;
@@ -155,6 +162,7 @@ int http_get(char *host, int port, int socket_fd, struct hostent *he, struct soc
         cout << "http_tcpclient_recv failed.." << endl;
         return -1;
     }
+    cout << "http_get finish" << endl;
     return 0;
 }
 
@@ -248,17 +256,20 @@ int main(int argc, char *argv[])
             tar.port = tar.port*10 + (line[i] - '0');
         }
         char buff[BUFFER_MAX] = {'\0'};
+        cout << tar.host <<endl;
         socket_fd = http_tcpclient_create();
+        cout << "tcpclient create success" << endl;
         if(socket_fd < 0){
-            cout << "[**]http_tcpclient_create failed." << endl;
+            cout << "host: " << tar.host << " port: " << tar.port << "[**]http_tcpclient_create failed." << endl;
             continue;
         }
         he = (struct hostent*)malloc(sizeof(struct hostent));
         server_addr = (struct sockaddr_in*)malloc(sizeof(struct sockaddr_in));
         if (http_get(tar.host, tar.port, socket_fd, he, server_addr, buff) == -1) {
-            cout << "[**]http_get failed" << endl;
+            cout << "host: " << tar.host << " port: " << tar.port << "[**]http_get failed" << endl;
             continue;
         }
+        cout << "http_get success" << endl;
         while (j <= messagelength - patternlength) {
             for (i = patternlength - 1; i >= 0 && x[i] == buff[i + j]; --i);
             if (i < 0) {
