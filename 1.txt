@@ -1,0 +1,452 @@
+10. HOST: 198.71.197.164 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 09 Jan 2013 22:17:52 GMT
+Accept-Ranges: bytes
+ETag: "028512ab7eecd1:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Fri, 04 Nov 2016 20:20:30 GMT
+Content-Length: 51683
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+
+<HEAD><meta name="google-site-verification" content="ihmRz9woeXj9UZbepqcD-rT5xQAD4xB9fIms-bDHtY8" /><TITLE>Kinesix Software - Human machine interface software for complex 
+real-time data. We combine the best capabilities of HMI software, SCADA software 
+and GUI software in a single solution.</TITLE>
+
+<link rel="icon" href="http://www.kinesix.com/favicon.ico" type="image/x-icon"/> 
+<link rel="shortcut icon" href="http://www.kinesix.com/favicon.ico" type="image/x-icon"/> 
+
+
+
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name= "description" content= "Offering human machine interface software for complex real-time data. We combine the best capabilities of HMI software, SCADA software and GUI software in a single solution."> 
+<meta name="keywords" content="Kinesix, Kinesix software, Kinesix Corporation, Sammi, HMI software, data visualization, data visualization software, real time software, real-time, dynamic graphics, java graphics, enterprise graphics, application monitoring, data display, real-time data display, process control graphics, transportation graphics, aerospace graphics, SCADA software, GUI software, scada hmi software, remote real time monitoring, GUI, HMI, Human machine interface">
+<META content="MSHTML 6.00.2600.0" name=GENERATOR>
+
+<link rel="File-List" href="Default_files/filelist.xml">
+
+
+<style type="text/css">
+<!--
+body {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.search-box{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#000000;
+}
+
+.search-box1{
+font-family:"Trebuchet MS";
+font-size:11px;
+border: 1px solid #DDDDDD;
+background:#ffffff;
+width:115px;
+}
+
+.search-box1-old{
+font-family:"Trebuchet MS";
+font-size:10px;
+BORDER-RIGHT:#DDDDDD 2px solid; BORDER-TOP:#DDDDDD 2px solid; BORDER-LEFT: #DDDDDD 2px solid; COLOR: #000000; BORDER-BOTTOM: #DDDDDD 2px solid;
+background:#ffffff;
+height:16px;
+width:115px;
+}
+
+
+div.Section1
+	{page:Section1;}
+ li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+h6
+	{margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:Arial;
+	font-weight:normal;
+	font-style:italic;
+	margin-left:0in; margin-right:0in; margin-top:0in}
+-->
+</style>
+<link href="kinesis.css" rel="stylesheet" type="text/css">
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=doc
+1. HOST: 202.109.103.225 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Fri, 04 Nov 2016 20:21:52 GMT
+Server: Microsoft-IIS/6.0
+MicrosoftOfficeWebServer: 5.0_Pub
+X-Powered-By: ASP.NET
+Content-Length: 934
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDQAQTAAAQ=PMAHOAGCIHCBBOABDKJBJOHH; path=/
+Cache-control: private
+
+
+<html>
+<script>window.location.href='http://202.109.103.225:8000/Default.aspx';</script>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>scada login</title>
+</head>
+<body>
+　<p>　</p>
+<p align="center"><font face="华文琥珀" color="#000080" size="6">上海天然气主干网</font></p>
+<p align="center"><font face="华文琥珀" color="#000080" size="6">SCADA实时查询系统</font><br>
+</p>
+<form method=post action="login2.asp">
+<div align="center">
+<table height="110" cellspacing="1" border="2" bordercolor="#000080" width="315">
+	<tr>
+		<td bgcolor="#B0C8F0" bordercolor="#000000">请输入登陆密码:</td>
+		<td bgcolor="#B0C8F0"><INPUT type=password name="password" size="20"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#B0C8F0" bordercolor="#000000"><INPUT type=submit value='登陆'><INPUT type=reset value='清空'></td><td>密码定期更改请向有关部门索取</td>
+	</tr>
+</table>
+</div>
+</body>
+</html>
+
+2. HOST: 194.102.231.164 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Fri, 04 Nov 2016 20:03:49 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.22
+Vary: Accept-Encoding
+Content-Length: 818
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
+</html>
+3. HOST: 194.102.231.142 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Fri, 04 Nov 2016 20:21:59 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.19
+Vary: Accept-Encoding
+Content-Length: 818
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
+</html>
+4. HOST: 194.102.231.132 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Fri, 04 Nov 2016 20:23:56 GMT
+Server: Apache/2.2.22 (Debian)
+X-Powered-By: PHP/5.4.41-0+deb7u1
+Vary: Accept-Encoding
+Content-Length: 818
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
+</html>
+5. HOST: 194.102.231.161 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Fri, 04 Nov 2016 20:21:59 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.20
+Vary: Accept-Encoding
+Content-Length: 818
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
+</html>
+6. HOST: 198.50.217.88 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Fri, 04 Nov 2016 20:22:01 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.3
+location: /lite-scada
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+7. HOST: 198.50.217.93 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 04 Nov 2016 20:22:02 GMT
+Server: Apache
+Location: http://www.liteautomacao.com.br/lite-scada
+Content-Length: 250
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
+</body></html>
+
+8. HOST: 198.50.217.89 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 04 Nov 2016 20:22:02 GMT
+Server: Apache
+Location: http://www.liteautomacao.com.br/lite-scada
+Content-Length: 250
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
+</body></html>
+
+9. HOST: 198.50.217.92 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 04 Nov 2016 20:22:03 GMT
+Server: Apache
+Location: http://www.liteautomacao.com.br/lite-scada
+Content-Length: 250
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
+</body></html>
+
+10. HOST: 198.71.197.164 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 09 Jan 2013 22:17:52 GMT
+Accept-Ranges: bytes
+ETag: "028512ab7eecd1:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Fri, 04 Nov 2016 20:22:03 GMT
+Content-Length: 51683
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+
+<HEAD><meta name="google-site-verification" content="ihmRz9woeXj9UZbepqcD-rT5xQAD4xB9fIms-bDHtY8" /><TITLE>Kinesix Software - Human machine interface software for complex 
+real-time data. We combine the best capabilities of HMI software, SCADA software 
+and GUI software in a single solution.</TITLE>
+
+<link rel="icon" href="http://www.kinesix.com/favicon.ico" type="image/x-icon"/> 
+<link rel="shortcut icon" href="http://www.kinesix.com/favicon.ico" type="image/x-icon"/> 
+
+
+
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name= "description" content= "Offering human machine interface software for complex real-time data. We combine the best capabilities of HMI software, SCADA software and GUI software in a single solution."> 
+<meta name="keywords" content="Kinesix, Kinesix software, Kinesix Corporation, Sammi, HMI software, data visualization, data visualization software, real time software, real-time, dynamic graphics, java graphics, enterprise graphics, application monitoring, data display, real-time data display, process control graphics, transportation graphics, aerospace graphics, SCADA software, GUI software, scada hmi software, remote real time monitoring, GUI, HMI, Human machine interface">
+<META content="MSHTML 6.00.2600.0" name=GENERATOR>
+
+<link rel="File-List" href="Default_files/filelist.xml">
+
+
+<style type="text/css">
+<!--
+body {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.search-box{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#000000;
+}
+
+.search-box1{
+font-family:"Trebuchet MS";
+font-size:11px;
+border: 1px solid #DDDDDD;
+background:#ffffff;
+width:115px;
+}
+
+.search-box1-old{
+font-family:"Trebuchet MS";
+font-size:10px;
+BORDER-RIGHT:#DDDDDD 2px solid; BORDER-TOP:#DDDDDD 2px solid; BORDER-LEFT: #DDDDDD 2px solid; COLOR: #000000; BORDER-BOTTOM: #DDDDDD 2px solid;
+background:#ffffff;
+height:16px;
+width:115px;
+}
+
+
+div.Section1
+	{page:Section1;}
+ li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+h6
+	{margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:11.

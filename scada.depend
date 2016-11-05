@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1478291080 source:/home/zhutc/code/scada/main.cpp
+	<iostream>
+	<fstream>
+	<sys/types.h>
+	<sys/socket.h>
+	<stdio.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<stdlib.h>
+	<fcntl.h>
+	<sys/shm.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<string.h>
+
