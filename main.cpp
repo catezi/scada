@@ -96,14 +96,32 @@ static int http_tcpclient_recv(int socket, char buff[]){
     int res = 0;
     cout << "http_tcpclient_recv start" << endl;
     char lpbuff[BUFFER_SIZE*4] = {'\0'};
-    while ((res = recv(socket, lpbuff, BUFFER_SIZE*4, 0)) > 0) {
+    /*while ((res = recv(socket, lpbuff, BUFFER_SIZE*4, 0)) > 0) {
+        cout << res << endl;
         strcat(buff, lpbuff);
+        cout << lpbuff <<endl;
         messagelength += res;
         i ++;
         lpbuff[BUFFER_SIZE*4] = {'\0'};
         if (res < BUFFER_SIZE*4) {
             break;
         }
+    }*/
+    if ((res = recv(socket, lpbuff, BUFFER_SIZE*4, 0)) > 0) {
+        cout << res << endl;
+        strcat(buff, lpbuff);
+        cout << lpbuff <<endl;
+        messagelength += res;
+        i ++;
+        lpbuff[BUFFER_SIZE*4] = {'\0'};
+    }
+    if (res < BUFFER_SIZE*4) {
+        cout << "http_tcpclient_recv finish" << endl;
+        return i;
+    }
+    if ((res = recv(socket, lpbuff, BUFFER_SIZE*4, 0)) > 0) {
+        cout << "[**]size is too large to receive." << endl;
+        return -1;
     }
     if (i == 0) {
         return -1;
@@ -281,9 +299,10 @@ int main(int argc, char *argv[])
                     filenum ++;
                 }
                 if (filenum == 1 && currentfile == 1) {
+                    sprintf(outfilename, "%d.txt", filenum);
                     ofstream out(outfilename);
                     if (out.is_open()) {
-                        out << "";
+                        out << "include scada:\n";
                         out.close();
                     }
                 }
