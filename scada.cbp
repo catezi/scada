@@ -11,7 +11,7 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters="in.txt" />
+				<Option parameters="in1.txt in2.txt in3.txt in4.txt in5.txt in6.txt" />
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
@@ -33,7 +33,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Headers/analysis.h" />
+		<Unit filename="Headers/client.h" />
+		<Unit filename="Headers/define.h" />
+		<Unit filename="Headers/mythread.h" />
+		<Unit filename="Headers/patternmatch.h" />
+		<Unit filename="client.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="mythread.cpp" />
+		<Unit filename="patternmatch.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
