@@ -33,6 +33,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="AC.cpp" />
 		<Unit filename="Headers/analysis.h" />
 		<Unit filename="Headers/client.h" />
 		<Unit filename="Headers/define.h" />

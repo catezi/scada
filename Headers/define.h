@@ -38,6 +38,7 @@ using namespace std;
 #define ASIZE 256
 #define MAX(a, b)  (((a) > (b)) ? (a) : (b))
 #define ITEMMAX 1000
+#define patternnum 6
 
 struct target {
     char *host;

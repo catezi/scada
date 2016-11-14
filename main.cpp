@@ -32,6 +32,6 @@ int main(int argc, char *argv[])
         }
         cout << getCurrentTime() << endl;
     }
-    sleep(60);
+    sleep(600);
 
 }

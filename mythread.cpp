@@ -2,6 +2,7 @@
 #include "Headers/client.h"
 #include "Headers/patternmatch.h"
 #include "Headers/analysis.h"
+#include "Headers/AC.h"
 
 const int patternlength = 5;
 
@@ -34,6 +35,7 @@ void* mythread(void * arg) {
 
     while (!in.eof()) {
         int i = 0, j = 0;
+        int successnum[patternnum] = {0};
         char line[256] = {'\0'};
         char host[20] = {'\0'};
         tar.port = 0;
@@ -63,7 +65,7 @@ void* mythread(void * arg) {
             continue;
         }
         cout << "http_get success" << endl;
-        while (j <= messagelength - patternlength) {
+        /*while (j <= messagelength - patternlength) {
             for (i = patternlength - 1; i >= 0 && x[i] == buff[i + j]; --i);
             if (i < 0) {
                 cout << j << endl;
@@ -99,13 +101,48 @@ void* mythread(void * arg) {
             else
                 j += MAX(bmGs[i], bmBc[buff[i + j]] - patternlength + 1 + i);
         }
+        */
+
 
         //cout << buff << endl;
+        startmatch(buff, messagelength, successnum);
+
+        if (judge(successnum)) {
+            cout << j << endl;
+            currentfile ++;
+            itemsum ++;
+            if (currentfile > ITEMMAX) {
+                currentfile = 1;
+                filenum ++;
+            }
+            if (filenum == 1 && currentfile == 1) {
+                sprintf(outfilename, "%d_%d.txt", args->threadid, filenum);
+                cout << outfilename << endl;
+                ofstream out(outfilename);
+                if (out.is_open()) {
+                    out << "include scada:\n";
+                    out.close();
+                }
+            }
+            char s[BUFFER_MAX] = {'\0'};
+            sprintf(s, "%d. HOST: %s PORT: %d\nmessage:\n%s\n",currentfile, tar.host, tar.port, buff);
+            sprintf(outfilename, "%d_%d.txt", args->threadid, filenum);
+            cout << outfilename << endl;
+            ofstream out(outfilename, std::ios::app);
+            if (!out.is_open()) {
+                open(outfilename, (O_CREAT|O_WRONLY|O_TRUNC));
+                ofstream out(outfilename, std::ios::app);
+            }
+            out << s;
+            out.close();
+        }
+
         free((void*)he);
         free((void*)server_addr);
         messagelength = 0;
     }
     http_tcpclient_close(socket_fd);
     in.close();
+    cout << args->threadid << " Thread have finished work!" << endl;
     return arg;
 }

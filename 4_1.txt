@@ -2,13 +2,13 @@ include scada:
 1. HOST: 202.109.103.225 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Sun, 13 Nov 2016 19:38:07 GMT
+Date: Mon, 14 Nov 2016 05:27:49 GMT
 Server: Microsoft-IIS/6.0
 MicrosoftOfficeWebServer: 5.0_Pub
 X-Powered-By: ASP.NET
 Content-Length: 934
 Content-Type: text/html
-Set-Cookie: ASPSESSIONIDQARQCBBQ=PHAPHJFABNDGKLEDPAJOJGHP; path=/
+Set-Cookie: ASPSESSIONIDQCSSBAAQ=ICACIKGACEFHFNOIGNNIFGJP; path=/
 Cache-control: private
 
 
@@ -37,17 +37,11 @@ Cache-control: private
 </div>
 </body>
 </html>
-HTTP/1.1 400 Bad Request
-Content-Type: text/html
-Date: Sun, 13 Nov 2016 19:38:07 GMT
-Connection: close
-Content-Length: 35
 
-<h1>Bad Request (Invalid Verb)</h1>
 2. HOST: 194.102.231.164 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Sun, 13 Nov 2016 19:20:22 GMT
+Date: Mon, 14 Nov 2016 05:09:44 GMT
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.22
 Vary: Accept-Encoding
@@ -89,7 +83,7 @@ table {
 3. HOST: 194.102.231.142 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Sun, 13 Nov 2016 19:38:53 GMT
+Date: Mon, 14 Nov 2016 05:28:18 GMT
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.19
 Vary: Accept-Encoding
@@ -127,11 +121,42 @@ table {
 </script>
 </td></tr></table>
 </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
 </html>
 4. HOST: 194.102.231.132 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Sun, 13 Nov 2016 19:40:59 GMT
+Date: Mon, 14 Nov 2016 05:30:18 GMT
 Server: Apache/2.2.22 (Debian)
 X-Powered-By: PHP/5.4.41-0+deb7u1
 Vary: Accept-Encoding
@@ -170,3 +195,111 @@ table {
 </td></tr></table>
 </body>
 </html>
+5. HOST: 194.102.231.161 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 14 Nov 2016 05:28:18 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.20
+Vary: Accept-Encoding
+Content-Length: 818
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
+</html>
+6. HOST: 198.50.217.88 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Mon, 14 Nov 2016 05:28:20 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.3
+location: /lite-scada
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+7. HOST: 198.50.217.93 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 14 Nov 2016 05:28:22 GMT
+Server: Apache
+Location: http://www.liteautomacao.com.br/lite-scada
+Content-Length: 250
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
+</body></html>
+
+8. HOST: 198.50.217.89 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 14 Nov 2016 05:28:22 GMT
+Server: Apache
+Location: http://www.liteautomacao.com.br/lite-scada
+Content-Length: 250
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
+</body></html>
+
+9. HOST: 198.50.217.92 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 14 Nov 2016 05:28:23 GMT
+Server: Apache
+Location: http://www.liteautomacao.com.br/lite-scada
+Content-Length: 250
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
+</body></html>
+

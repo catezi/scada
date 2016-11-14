@@ -2,13 +2,13 @@ include scada:
 1. HOST: 202.109.103.225 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Sun, 13 Nov 2016 19:38:07 GMT
+Date: Mon, 14 Nov 2016 05:27:49 GMT
 Server: Microsoft-IIS/6.0
 MicrosoftOfficeWebServer: 5.0_Pub
 X-Powered-By: ASP.NET
 Content-Length: 934
 Content-Type: text/html
-Set-Cookie: ASPSESSIONIDQARQCBBQ=OHAPHJFAOFPMFNBJMPHIAMDI; path=/
+Set-Cookie: ASPSESSIONIDQCSSBAAQ=MCACIKGAAGNCHFBICGKGAIMC; path=/
 Cache-control: private
 
 
@@ -39,50 +39,15 @@ Cache-control: private
 </html>
 HTTP/1.1 400 Bad Request
 Content-Type: text/html
-Date: Sun, 13 Nov 2016 19:38:07 GMT
+Date: Mon, 14 Nov 2016 05:27:49 GMT
 Connection: close
 Content-Length: 35
 
 <h1>Bad Request (Invalid Verb)</h1>
-2. HOST: 193.125.126.125 PORT: 8000
+2. HOST: 194.102.231.164 PORT: 80
 message:
 HTTP/1.1 200 OK
-Connection: Keep-Alive
-Transfer-Encoding: chunked
-Keep-Alive: timeout=20
-ETag: "1c8-59f5-3a4fc88b"
-Last-Modified: Mon, 01 Jan 2001 00:00:11 GMT
-Date: Sun, 13 Nov 2016 19:38:11 GMT
-Content-Type: text/html
-Content-Length: 23029
-
-1000
-<!DOCTYPE HTML>
-<html lang="en-US">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <link rel="icon" href="/scada/resources/images/scada.png">
-  <link rel="apple-touch-icon" href="/scada/resources/images/scada.png">
-  <title>homeLYnk - Start Page</title>
-  <style type="text/css">
-    body, html {
-      margin: 0;
-      padding: 0;
-      background: #4FA600;
-      height: 100%;
-    }
-    body {
-      background-repeat: no-repeat;
-      background-position: bottom right;
-      background-image: url(data:image/png;base64,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
-3. HOST: 194.102.231.164 PORT: 80
-message:
-HTTP/1.1 200 OK
-Date: Sun, 13 Nov 2016 19:20:04 GMT
+Date: Mon, 14 Nov 2016 05:09:44 GMT
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.22
 Vary: Accept-Encoding
@@ -121,10 +86,10 @@ table {
 </td></tr></table>
 </body>
 </html>
-4. HOST: 194.102.231.142 PORT: 80
+3. HOST: 194.102.231.142 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Sun, 13 Nov 2016 19:38:35 GMT
+Date: Mon, 14 Nov 2016 05:28:17 GMT
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.19
 Vary: Accept-Encoding
@@ -162,11 +127,42 @@ table {
 </script>
 </td></tr></table>
 </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
 </html>
-5. HOST: 194.102.231.132 PORT: 80
+4. HOST: 194.102.231.132 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Sun, 13 Nov 2016 19:40:35 GMT
+Date: Mon, 14 Nov 2016 05:30:17 GMT
 Server: Apache/2.2.22 (Debian)
 X-Powered-By: PHP/5.4.41-0+deb7u1
 Vary: Accept-Encoding
@@ -205,10 +201,10 @@ table {
 </td></tr></table>
 </body>
 </html>
-6. HOST: 194.102.231.161 PORT: 80
+5. HOST: 194.102.231.161 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Sun, 13 Nov 2016 19:38:37 GMT
+Date: Mon, 14 Nov 2016 05:28:16 GMT
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.20
 Vary: Accept-Encoding
@@ -247,10 +243,10 @@ table {
 </td></tr></table>
 </body>
 </html>
-7. HOST: 198.50.217.88 PORT: 80
+6. HOST: 198.50.217.88 PORT: 80
 message:
 HTTP/1.1 302 Found
-Date: Sun, 13 Nov 2016 19:38:39 GMT
+Date: Mon, 14 Nov 2016 05:28:19 GMT
 Server: Apache
 X-Powered-By: PHP/5.3.3
 location: /lite-scada
@@ -259,10 +255,10 @@ Connection: close
 Content-Type: text/html; charset=UTF-8
 
 
-8. HOST: 198.50.217.93 PORT: 80
+7. HOST: 198.50.217.93 PORT: 80
 message:
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 13 Nov 2016 19:38:39 GMT
+Date: Mon, 14 Nov 2016 05:28:20 GMT
 Server: Apache
 Location: http://www.liteautomacao.com.br/lite-scada
 Content-Length: 250
@@ -277,10 +273,10 @@ Content-Type: text/html; charset=iso-8859-1
 <p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
 </body></html>
 
-9. HOST: 198.50.217.89 PORT: 80
+8. HOST: 198.50.217.89 PORT: 80
 message:
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 13 Nov 2016 19:38:40 GMT
+Date: Mon, 14 Nov 2016 05:28:20 GMT
 Server: Apache
 Location: http://www.liteautomacao.com.br/lite-scada
 Content-Length: 250
@@ -295,10 +291,10 @@ Content-Type: text/html; charset=iso-8859-1
 <p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
 </body></html>
 
-10. HOST: 198.50.217.92 PORT: 80
+9. HOST: 198.50.217.92 PORT: 80
 message:
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 13 Nov 2016 19:38:40 GMT
+Date: Mon, 14 Nov 2016 05:28:21 GMT
 Server: Apache
 Location: http://www.liteautomacao.com.br/lite-scada
 Content-Length: 250
@@ -313,3 +309,103 @@ Content-Type: text/html; charset=iso-8859-1
 <p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
 </body></html>
 
+10. HOST: 198.71.197.164 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 09 Jan 2013 22:17:52 GMT
+Accept-Ranges: bytes
+ETag: "028512ab7eecd1:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Mon, 14 Nov 2016 05:28:21 GMT
+Content-Length: 51683
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+
+<HEAD><meta name="google-site-verification" content="ihmRz9woeXj9UZbepqcD-rT5xQAD4xB9fIms-bDHtY8" /><TITLE>Kinesix Software - Human machine interface software for complex 
+real-time data. We combine the best capabilities of HMI software, SCADA software 
+and GUI software in a single solution.</TITLE>
+
+<link rel="icon" href="http://www.kinesix.com/favicon.ico" type="image/x-icon"/> 
+<link rel="shortcut icon" href="http://www.kinesix.com/favicon.ico" type="image/x-icon"/> 
+
+
+
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name= "description" content= "Offering human machine interface software for complex real-time data. We combine the best capabilities of HMI software, SCADA software and GUI software in a single solution."> 
+<meta name="keywords" content="Kinesix, Kinesix software, Kinesix Corporation, Sammi, HMI software, data visualization, data visualization software, real time software, real-time, dynamic graphics, java graphics, enterprise graphics, application monitoring, data display, real-time data display, process control graphics, transportation graphics, aerospace graphics, SCADA software, GUI software, scada hmi software, remote real time monitoring, GUI, HMI, Human machine interface">
+<META content="MSHTML 6.00.2600.0" name=GENERATOR>
+
+<link rel="File-List" href="Default_files/filelist.xml">
+
+
+<style type="text/css">
+<!--
+body {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.search-box{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#000000;
+}
+
+.search-box1{
+font-family:"Trebuchet MS";
+font-size:11px;
+border: 1px solid #DDDDDD;
+background:#ffffff;
+width:115px;
+}
+
+.search-box1-old{
+font-family:"Trebuchet MS";
+font-size:10px;
+BORDER-RIGHT:#DDDDDD 2px solid; BORDER-TOP:#DDDDDD 2px solid; BORDER-LEFT: #DDDDDD 2px solid; COLOR: #000000; BORDER-BOTTOM: #DDDDDD 2px solid;
+background:#ffffff;
+height:16px;
+width:115px;
+}
+
+
+div.Section1
+	{page:Section1;}
+ li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+h6
+	{margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:Arial;
+	font-weight:normal;
+	font-style:italic;
+	margin-left:0in; margin-right:0in; margin-top:0in}
+-->
+</style>
+<link href="kinesis.css" rel="stylesheet" type="text/css">
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=doc

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1479063155 source:/home/zhutc/code/scada/main.cpp
+1479100611 source:/home/zhutc/code/scada/main.cpp
 	"Headers/define.h"
 	"Headers/client.h"
 	"Headers/patternmatch.h"
@@ -9,7 +9,7 @@
 	"Headers/define.h"
 	"Headers/client.h"
 
-1479065316 /home/zhutc/code/scada/Headers/define.h
+1479098242 /home/zhutc/code/scada/Headers/define.h
 	<iostream>
 	<fstream>
 	<sys/types.h>
@@ -49,9 +49,22 @@
 
 1479055249 /home/zhutc/code/scada/Headers/mythread.h
 
-1479062512 source:/home/zhutc/code/scada/mythread.cpp
+1479101267 source:/home/zhutc/code/scada/mythread.cpp
 	"Headers/define.h"
 	"Headers/client.h"
 	"Headers/patternmatch.h"
 	"Headers/analysis.h"
+	"Headers/AC.h"
+
+1479100860 source:/home/zhutc/code/scada/AC.cpp
+	<iostream>
+	<string.h>
+	<malloc.h>
+	<queue>
+	"Headers/define.h"
+	"Headers/client.h"
+	"Headers/patternmatch.h"
+	"Headers/mythread.h"
+
+1479100525 /home/zhutc/code/scada/Headers/AC.h
 
