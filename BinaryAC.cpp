@@ -1,3 +1,5 @@
+#include "Headers/AC.h"
+#include "Headers/transform.h"
 #include "Headers/define.h"
 #include "Headers/client.h"
 #include "Headers/patternmatch.h"
@@ -6,10 +8,12 @@
 using namespace std;
 
 
-PTreeNode *getNewNode()
-{
+
+
+
+TreeNode *getNewNode() {
     int i;
-    PTreeNode* tnode=(PTreeNode*)malloc(sizeof(PTreeNode));
+    TreeNode* tnode=(TreeNode*)malloc(sizeof(TreeNode));
     tnode->fail=NULL;
     tnode->par=NULL;
     tnode->patterTag=0;
@@ -20,8 +24,7 @@ PTreeNode *getNewNode()
 
 
 
-int  nodeToQueue(PTree root,queue<PTree> &myqueue)
-{
+int  nodeToQueue(Tree root,queue<Tree> &myqueue) {
     int i;
     for (i = 0; i < ASCII; i++)
     {
@@ -32,26 +35,28 @@ int  nodeToQueue(PTree root,queue<PTree> &myqueue)
 }
 
 
-PTree buildingTree()
-{
+Tree buildingTree() {
     int i,j;
-    PTree root=getNewNode();
-    PTree tmp1=NULL,tmp2=NULL;
+    Tree root=getNewNode();
+    Tree tmp1=NULL,tmp2=NULL;
     for(i = 0; i < patternnum; i ++)
     {
         tmp1=root;
-        for(j = 0; j < strlen(pattern[i]); j++)
+        for(j = 0; j < strlen(pattern[i]); j += 2)
         {
-            if(tmp1->next[pattern[i][j]-'\0']==NULL)
+            int pos = hexchar2int(pattern[i][j], pattern[i][j+1]);
+            if(tmp1->next[pos]==NULL)
             {
                 tmp2=getNewNode();
-                tmp2->inputchar=pattern[i][j];
+                string s = pattern[i];
+                strcpy(tmp2->inputchar, s.substr(j, j+1).c_str());
                 tmp2->par=tmp1;
-                tmp1->next[pattern[i][j]-'\0']=tmp2;
+                tmp1->next[pos]=tmp2;
                 tmp1=tmp2;
             }
-            else
-                tmp1=tmp1->next[pattern[i][j]-'\0'];
+            else {
+                tmp1=tmp1->next[pos];
+            }
         }
         tmp1->patterTag=1;
         tmp1->patterNo=i;
@@ -60,11 +65,10 @@ PTree buildingTree()
 }
 
 
-int buildingFailPath(PTree root)
-{
+int buildingFailPath(Tree root) {
     int i;
-    char inputchar;
-    queue<PTree> myqueue;
+    char inputchar[2];
+    queue<Tree> myqueue;
     root->fail=root;
     for(i=0; i < ASCII; i++)
     {
@@ -75,21 +79,21 @@ int buildingFailPath(PTree root)
         }
     }
 
-    PTree tmp=NULL,par=NULL;
+    Tree tmp=NULL,par=NULL;
     while(!myqueue.empty())
     {
         tmp=myqueue.front();
         myqueue.pop();
         nodeToQueue(tmp,myqueue);
-
-        inputchar=tmp->inputchar;
+        strcpy(inputchar, tmp->inputchar);
         par=tmp->par;
 
         while(true)
         {
-            if(par->fail->next[inputchar-'\0']!=NULL)
+            int pos = hexchar2int(inputchar[0], inputchar[1]);
+            if(par->fail->next[pos]!=NULL)
             {
-                tmp->fail=par->fail->next[inputchar-'\0'];
+                tmp->fail=par->fail->next[pos];
                 break;
             }
             else
@@ -108,15 +112,14 @@ int buildingFailPath(PTree root)
 }
 
 
-int searchAC(PTree root, char* str, int len, int successnum[])
-{
-    PTreeNode *tmp=root;
+int searchAC(Tree root, char* str, int len, int successnum[]) {
+    TreeNode *tmp=root;
     int i=0;
     while(i < len)
     {
-        int pos = str[i]-'\0';
+        int pos = hexchar2int(str[i], str[i+1]);
         if (pos < 0 || pos >= ASCII) {
-            i ++;
+            i += 2;
             continue;
         }
         //cout << i << " : " << pos << endl;
@@ -130,15 +133,16 @@ int searchAC(PTree root, char* str, int len, int successnum[])
                 //cout << " 1: " << tmp->patterNo << endl;
                 //cout << pattern[tmp->patterNo] << " : " << successnum[tmp->patterNo] << endl;
             }
-            i++;
+            i += 2;
         }
         else
         {
-            if(tmp == root)
-                i++;
+            if(tmp == root) {
+                i += 2;
+            }
             else
             {
-                tmp=tmp->fail;
+                tmp = tmp->fail;
                 if(tmp -> patterTag==1) {
                     cout<< i-strlen(pattern[tmp->patterNo])+1 << '\t' << tmp->patterNo << '\t' << pattern[tmp->patterNo] << endl;
                     successnum[tmp->patterNo] ++;
@@ -162,12 +166,11 @@ int searchAC(PTree root, char* str, int len, int successnum[])
 }
 
 
-int destory(PTree tree)
-{
+int destory(Tree tree) {
     if(tree==NULL)
         return 0;
-    queue<PTree> myqueue;
-    PTreeNode *tmp=NULL;
+    queue<Tree> myqueue;
+    TreeNode *tmp=NULL;
 
     myqueue.push(tree);
     tree=NULL;
@@ -186,10 +189,9 @@ int destory(PTree tree)
     return 0;
 }
 
-void startmatch(char *buff, int len, int successnum[])
-{
+void startmatch(char *buff, int len, int successnum[]) {
     //char a[] = "sdmfhsgnshejfgnihaofhsrnihaoSDMFHSGNSHEJFGNIHAOFHSRNIHAO";
-    PTree root=buildingTree();
+    Tree root=buildingTree();
     buildingFailPath(root);
     cout<< "pattern : " << pattern[0]<<" "<<pattern[1]<<" "<<pattern[2]<<" "<<pattern[3]<<" "<<endl <<endl;
     cout<< "result :" << endl << "position\t" << "NO.\t" << "pattern" <<endl;

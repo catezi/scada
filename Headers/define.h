@@ -25,6 +25,13 @@
 #include <sys/time.h>
 #include <signal.h>
 #include <sys/ioctl.h>
+#include <malloc.h>
+#include <queue>
+#include <Python.h>
+#include <codecvt>
+#include <fstream>
+#include <cstdio>
+#include <sstream>
 
 using namespace std;
 
@@ -38,7 +45,8 @@ using namespace std;
 #define ASIZE 256
 #define MAX(a, b)  (((a) > (b)) ? (a) : (b))
 #define ITEMMAX 1000
-#define patternnum 6
+#define patternnum 4
+#define ASCII 256
 
 struct target {
     char *host;
@@ -50,6 +58,18 @@ struct ARGS {
    string filename;
    int threadid;
 };
+
+typedef struct node {
+    struct node *next[ASCII];
+    struct node *par;
+    struct node *fail;
+    char inputchar[2];
+    int patterTag;
+    int patterNo;
+}*Tree, TreeNode;
+
+
+const char pattern[patternnum][30] = {"7363616461", "51af5ca9", "673159296668", "6667"};
 
 
 

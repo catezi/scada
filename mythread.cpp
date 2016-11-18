@@ -3,6 +3,7 @@
 #include "Headers/patternmatch.h"
 #include "Headers/analysis.h"
 #include "Headers/AC.h"
+#include "Headers/callpython.h"
 
 const int patternlength = 5;
 
@@ -65,6 +66,14 @@ void* mythread(void * arg) {
             continue;
         }
         cout << "http_get success" << endl;
+
+        string s = buff;
+        s = transform(s);
+
+        char *hex;
+
+        strcpy(hex, s.c_str());
+
         /*while (j <= messagelength - patternlength) {
             for (i = patternlength - 1; i >= 0 && x[i] == buff[i + j]; --i);
             if (i < 0) {
@@ -105,7 +114,7 @@ void* mythread(void * arg) {
 
 
         //cout << buff << endl;
-        startmatch(buff, messagelength, successnum);
+        startmatch(hex, 8*messagelength, successnum);
 
         if (judge(successnum)) {
             cout << j << endl;

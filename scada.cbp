@@ -33,16 +33,21 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="AC.cpp" />
+		<Unit filename="BinaryAC.cpp" />
+		<Unit filename="Headers/BinaryAC.h" />
 		<Unit filename="Headers/analysis.h" />
+		<Unit filename="Headers/callpython.h" />
 		<Unit filename="Headers/client.h" />
 		<Unit filename="Headers/define.h" />
 		<Unit filename="Headers/mythread.h" />
 		<Unit filename="Headers/patternmatch.h" />
+		<Unit filename="Headers/transform.h" />
+		<Unit filename="callpython.cpp" />
 		<Unit filename="client.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="mythread.cpp" />
 		<Unit filename="patternmatch.cpp" />
+		<Unit filename="transform.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

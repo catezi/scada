@@ -9,7 +9,7 @@
 	"Headers/define.h"
 	"Headers/client.h"
 
-1479098242 /home/zhutc/code/scada/Headers/define.h
+1479454774 /home/zhutc/code/scada/Headers/define.h
 	<iostream>
 	<fstream>
 	<sys/types.h>
@@ -30,6 +30,13 @@
 	<sys/time.h>
 	<signal.h>
 	<sys/ioctl.h>
+	<malloc.h>
+	<queue>
+	<Python.h>
+	<codecvt>
+	<fstream>
+	<cstdio>
+	<sstream>
 
 1479030158 /home/zhutc/code/scada/Headers/client.h
 
@@ -66,5 +73,35 @@
 	"Headers/patternmatch.h"
 	"Headers/mythread.h"
 
-1479100525 /home/zhutc/code/scada/Headers/AC.h
+1479453534 /home/zhutc/code/scada/Headers/AC.h
+
+1479454116 source:/home/zhutc/code/scada/BinaryAC.cpp
+	"Headers/AC.h"
+	"Headers/transform.h"
+	"Headers/define.h"
+	"Headers/client.h"
+	"Headers/patternmatch.h"
+	"Headers/mythread.h"
+
+1479453269 /home/zhutc/code/scada/Headers/transform.h
+	<iostream>
+	<string>
+	<string.h>
+	<cstdio>
+	<sstream>
+
+1479454130 source:/home/zhutc/code/scada/callpython.cpp
+	"Headers/define.h"
+	"Headers/callpython.h"
+
+1479453259 /home/zhutc/code/scada/Headers/callpython.h
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<iostream>
+
+1479454147 source:/home/zhutc/code/scada/transform.cpp
+	"Headers/define.h"
+	"Headers/transform.h"
 
