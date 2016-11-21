@@ -8,8 +8,28 @@ string transform(string s) {
     if (!Py_IsInitialized()) {
         return "can't initialized!";
     }
+    char temp1[s.size()+2] = {'\0'};
+    char temp2[s.size()+2] = {'\0'};
+
+    strcpy(temp1, s.c_str());
+    cout << temp1 << endl;
+
+    for (int i = 0, j = 0; i <= s.size()-1; i ++) {
+        if (temp1[i] != '\n' && temp1[i] != '"' && temp1[i] != '\r' && temp1[i] != ' ') {
+            if (temp1[i] >= 'A' && temp1[i] <= 'Z') {
+                temp2[j ++] = temp1[i] - ('A' - 'a');
+            }
+            else {
+                temp2[j ++] = temp1[i];
+            }
+        }
+    }
+
+    s = temp2;
+    cout << s << endl;
+
     char ss[65536] = {'\0'};
-    sprintf(ss, "#-*- coding: UTF-8 -*-\n"
+    sprintf(ss, //"#-*- coding: UTF-8 -*-\n"
             "import binascii\n"
             "s = \"%s\"\n"
             "ss = binascii.b2a_hex(s.decode(\"gb2312\").encode(\"utf-8\"))\n"
@@ -20,6 +40,8 @@ string transform(string s) {
             , s.c_str());
 
     cout << ss << endl;
+
+    PyRun_SimpleString(ss);
 
     string ret = "";
 
@@ -35,11 +57,6 @@ string transform(string s) {
     cout << ret << endl;
 
 
-    PyRun_SimpleString(ss);
-
-
-
-
     Py_Finalize();
-    return ret;
+    return ret ;
 }

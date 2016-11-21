@@ -2,6 +2,10 @@
 #include "Headers/client.h"
 #include "Headers/patternmatch.h"
 #include "Headers/mythread.h"
+#include "Headers/callpython.h"
+
+char pattern[patternnum][patternlength] = {{'\0'}};
+pthread_mutex_t mutex;
 
 
 using namespace std;
@@ -17,8 +21,22 @@ long getCurrentTime()
 int main(int argc, char *argv[])
 {
     pthread_t id[argc-1];
+    pthread_mutex_init (&mutex,NULL);
     string filename[argc-1];
     struct ARGS args[argc-1];
+
+
+    int originpatternlength = 20;
+    string originpattern[patternnum] = {"scada", "SCADA", "scada", "SCADA"};
+
+    for (int i = 0; i <= patternnum-1; i ++) {
+        string s = transform(originpattern[i]);
+        strcpy(pattern[i], s.c_str());
+        cout << originpattern[i] << endl;
+        cout << pattern[i] << endl;
+    }
+
+
     for (int i = 1; i <= argc-1; i ++) {
         //pthread_t testid;
         filename[i-1] = argv[i];

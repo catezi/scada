@@ -47,6 +47,7 @@ using namespace std;
 #define ITEMMAX 1000
 #define patternnum 4
 #define ASCII 256
+#define patternlength 100
 
 struct target {
     char *host;
@@ -69,7 +70,8 @@ typedef struct node {
 }*Tree, TreeNode;
 
 
-const char pattern[patternnum][30] = {"7363616461", "51af5ca9", "673159296668", "6667"};
+extern char pattern[patternnum][patternlength];
+extern pthread_mutex_t mutex;
 
 
 

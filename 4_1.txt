@@ -2,13 +2,13 @@ include scada:
 1. HOST: 202.109.103.225 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Mon, 14 Nov 2016 05:27:49 GMT
+Date: Mon, 21 Nov 2016 07:46:19 GMT
 Server: Microsoft-IIS/6.0
 MicrosoftOfficeWebServer: 5.0_Pub
 X-Powered-By: ASP.NET
 Content-Length: 934
 Content-Type: text/html
-Set-Cookie: ASPSESSIONIDQCSSBAAQ=ICACIKGACEFHFNOIGNNIFGJP; path=/
+Set-Cookie: ASPSESSIONIDSCRTBABR=BDNPFJABNBLEDKPKBICDOGMF; path=/
 Cache-control: private
 
 
@@ -37,11 +37,54 @@ Cache-control: private
 </div>
 </body>
 </html>
+HTTP/1.1 400 Bad Request
+Content-Type: text/html
+Date: Mon, 21 Nov 2016 07:46:19 GMT
+Connection: close
+Content-Length: 35
 
-2. HOST: 194.102.231.164 PORT: 80
+<h1>Bad Request (Invalid Verb)</h1>
+2. HOST: 194.106.104.243 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Mon, 14 Nov 2016 05:09:44 GMT
+Server: nginx/1.6.2
+Date: Mon, 21 Nov 2016 07:49:24 GMT
+Content-Type: text/html
+Content-Length: 15015
+Last-Modified: Wed, 26 May 2010 13:30:37 GMT
+Connection: keep-alive
+ETag: "4bfd227d-3aa7"
+Accept-Ranges: bytes
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords"
+content="automaatika, automaatikaprojekt, automatiseerimine, automaatikasüsteem, juhtimissüsteem, elektriprojekt, automaatikakomponentid, automaatikaseadmed, projekteerimine, elektripaigaldis, madalpingeaparatuur, teostus, kontroller, SIMATIC, PLC, visualiseerimine, SCADA, Step7, WinCC">
+<meta name="description"
+content="SystemTest OÜ. Automaatikasüsteemide projekteerimine, programmerimine, teostus. Elektriprojektid ja elektripaigaldised. SIEMENSi ja TURCKi automaatikakomponentide ja madalpingeaparatuuri müük.">
+<meta name="robots" content="index, nofollow">
+<meta name="revisit-after" content="1 days" >
+
+<title>SystemTest OÜ. Automaatikasüsteemide projekteerimine, programmerimine, teostus. Elektriprojektid.</title>
+
+
+  <link rel="stylesheet" type="text/css" href="css/stcss.css">
+
+  <style>
+<!--
+li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin
+3. HOST: 194.102.231.164 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 21 Nov 2016 07:29:46 GMT
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.22
 Vary: Accept-Encoding
@@ -79,11 +122,103 @@ table {
 </script>
 </td></tr></table>
 </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
 </html>
-3. HOST: 194.102.231.142 PORT: 80
+4. HOST: 194.103.40.193 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Mon, 14 Nov 2016 05:28:18 GMT
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Keep-Alive: timeout=20
+ETag: "567-73f-54ddf759"
+Last-Modified: Fri, 13 Feb 2015 13:08:41 GMT
+Date: Mon, 21 Nov 2016 07:44:19 GMT
+Content-Type: text/html
+Content-Length: 1855
+
+73F
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="icon" href="/scada/resources/images/scada.png">
+  <link rel="apple-touch-icon" href="/scada/resources/images/scada.png">
+  <title>Logic Machine - Start Page</title>
+  <style type="text/css">
+    body, html { margin: 0; padding: 0; background: #1B6490; height: 100%; }
+    table, td { margin: 0; padding: 0; width: 100%; height: 100%; text-align: center; }
+    a { font-family: Tahoma, Verdana, sans-serif; width: 128px; text-decoration: none; font-size: 20px; text-shadow: 1px 1px 0 #003453; color: #FFF; display: inline-block; margin: 8px; }
+    a img { opacity: 1; border: 0; width: 128px; border-radius: 16px; }
+    a:hover img { opacity: 0.9; }
+  </style>
+</head>
+<body>
+  <table>
+    <tr>
+      <td>
+        <a href="/cgi-bin/scada/index.cgi"><img src="/scada/resources/images/scada.png"> Logic<br>Machine</a>
+        <a href="/cgi-bin/flashsys/index.cgi"><img src="/scada/resources/images/system.png"> System configuration</a>
+        <a href="/cgi-bin/scada-vis/index.cgi"><img src="/scada/resources/images/visualization.png"> User mode visualization</a>
+        <a href="/cgi-bin/scada-vis/touch.html"><img src="/scada/resources/images/touch.png"> Touch visualization</a>
+        <a href="/cgi-bin/scada-vis/schedulers.cgi"><img src="/scada/resources/images/schedulers.png"> User mode schedulers</a>
+        <a href="/cgi-bin/scada-vis/trends.cgi"><img src="/scada/resources/images/trends.png"> Trend<br>logs</a>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+
+0
+
+HTTP/1.1 400 Bad Request
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Keep-Alive: timeout=20
+Content-Type: text/html
+
+14
+<h1>Bad Request</h1>
+0
+
+
+5. HOST: 194.102.231.142 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 21 Nov 2016 07:48:36 GMT
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.19
 Vary: Accept-Encoding
@@ -153,10 +288,10 @@ table {
 </td></tr></table>
 </body>
 </html>
-4. HOST: 194.102.231.132 PORT: 80
+6. HOST: 194.102.231.132 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Mon, 14 Nov 2016 05:30:18 GMT
+Date: Mon, 21 Nov 2016 07:50:39 GMT
 Server: Apache/2.2.22 (Debian)
 X-Powered-By: PHP/5.4.41-0+deb7u1
 Vary: Accept-Encoding
@@ -194,11 +329,42 @@ table {
 </script>
 </td></tr></table>
 </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
 </html>
-5. HOST: 194.102.231.161 PORT: 80
+7. HOST: 194.102.231.161 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Mon, 14 Nov 2016 05:28:18 GMT
+Date: Mon, 21 Nov 2016 07:48:36 GMT
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.20
 Vary: Accept-Encoding
@@ -236,11 +402,42 @@ table {
 </script>
 </td></tr></table>
 </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
 </html>
-6. HOST: 198.50.217.88 PORT: 80
+8. HOST: 198.50.217.88 PORT: 80
 message:
 HTTP/1.1 302 Found
-Date: Mon, 14 Nov 2016 05:28:20 GMT
+Date: Mon, 21 Nov 2016 07:48:39 GMT
 Server: Apache
 X-Powered-By: PHP/5.3.3
 location: /lite-scada
@@ -249,10 +446,42 @@ Connection: close
 Content-Type: text/html; charset=UTF-8
 
 
-7. HOST: 198.50.217.93 PORT: 80
+9. HOST: 198.12.151.204 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 21 Nov 2016 07:48:40 GMT
+Server: Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 PHP/5.4.38
+X-Powered-By: PHP/5.4.38
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+379b
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />-->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>RfWeL - Rf Wireless Electronics, Welcome</title>
+<meta name="keywords" content="Remote Wireless, 3G, 4G, WiMax, SCADA, M2M, Cellular Data, Wireless Amplifier, Antenna, Long Range Wireless">
+
+<link href="css/submenux.css" rel="stylesheet" type="text/css">
+<link href="css/menu.css" rel="stylesheet" type="text/css">
+</head>
+
+<body id="hgcBodyTag" bgcolor="#ffffff" text="#000000">
+<!-- Include Std header  -->
+<!-- Reference To Other Files Start  -->
+			<link rel="stylesheet" href="//www.rfwel.com/css/submenux.css" type="text/css">
+			<link rel="stylesheet" href="//www.rfwel.com/css/menu.css" type="text/css">
+ <!--add favicon -->
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+ <!--end add favicon -->
+			<script type="text/java
+10. HOST: 198.50.217.93 PORT: 80
 message:
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 14 Nov 2016 05:28:22 GMT
+Date: Mon, 21 Nov 2016 07:48:40 GMT
 Server: Apache
 Location: http://www.liteautomacao.com.br/lite-scada
 Content-Length: 250
@@ -267,10 +496,10 @@ Content-Type: text/html; charset=iso-8859-1
 <p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
 </body></html>
 
-8. HOST: 198.50.217.89 PORT: 80
+11. HOST: 198.50.217.89 PORT: 80
 message:
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 14 Nov 2016 05:28:22 GMT
+Date: Mon, 21 Nov 2016 07:48:42 GMT
 Server: Apache
 Location: http://www.liteautomacao.com.br/lite-scada
 Content-Length: 250
@@ -285,10 +514,10 @@ Content-Type: text/html; charset=iso-8859-1
 <p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
 </body></html>
 
-9. HOST: 198.50.217.92 PORT: 80
+12. HOST: 198.50.217.92 PORT: 80
 message:
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 14 Nov 2016 05:28:23 GMT
+Date: Mon, 21 Nov 2016 07:48:43 GMT
 Server: Apache
 Location: http://www.liteautomacao.com.br/lite-scada
 Content-Length: 250
@@ -303,3 +532,133 @@ Content-Type: text/html; charset=iso-8859-1
 <p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
 </body></html>
 
+13. HOST: 198.71.197.164 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 09 Jan 2013 22:17:52 GMT
+Accept-Ranges: bytes
+ETag: "028512ab7eecd1:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Mon, 21 Nov 2016 07:48:44 GMT
+Content-Length: 51683
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+
+<HEAD><meta name="google-site-verification" content="ihmRz9woeXj9UZbepqcD-rT5xQAD4xB9fIms-bDHtY8" /><TITLE>Kinesix Software - Human machine interface software for complex 
+real-time data. We combine the best capabilities of HMI software, SCADA software 
+and GUI software in a single solution.</TITLE>
+
+<link rel="icon" href="http://www.kinesix.com/favicon.ico" type="image/x-icon"/> 
+<link rel="shortcut icon" href="http://www.kinesix.com/favicon.ico" type="image/x-icon"/> 
+
+
+
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name= "description" content= "Offering human machine interface software for complex real-time data. We combine the best capabilities of HMI software, SCADA software and GUI software in a single solution."> 
+<meta name="keywords" content="Kinesix, Kinesix software, Kinesix Corporation, Sammi, HMI software, data visualization, data visualization software, real time software, real-time, dynamic graphics, java graphics, enterprise graphics, application monitoring, data display, real-time data display, process control graphics, transportation graphics, aerospace graphics, SCADA software, GUI software, scada hmi software, remote real time monitoring, GUI, HMI, Human machine interface">
+<META content="MSHTML 6.00.2600.0" name=GENERATOR>
+
+<link rel="File-List" href="Default_files/filelist.xml">
+
+
+<style type="text/css">
+<!--
+body {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.search-box{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#000000;
+}
+
+.search-box1{
+font-family:"Trebuchet MS";
+font-size:11px;
+border: 1px solid #DDDDDD;
+background:#ffffff;
+width:115px;
+}
+
+.search-box1-old{
+font-family:"Trebuchet MS";
+font-size:10px;
+BORDER-RIGHT:#DDDDDD 2px solid; BORDER-TOP:#DDDDDD 2px solid; BORDER-LEFT: #DDDDDD 2px solid; COLOR: #000000; BORDER-BOTTOM: #DDDDDD 2px solid;
+background:#ffffff;
+height:16px;
+width:115px;
+}
+
+
+div.Section1
+	{page:Section1;}
+ li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+h6
+	{margin-bottom:.0001pt;
+	text-align:center;
+	page-break-afte
+14. HOST: 198.71.146.20 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Mon, 04 May 2015 17:06:53 GMT
+Accept-Ranges: bytes
+ETag: "e79155b88c86d01:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Mon, 21 Nov 2016 07:48:45 GMT
+Content-Length: 15170
+
+<html>
+
+<head>
+<meta name="keywords" content="OPC, Visual Basic, VB.Net, VB, VB6, SLC 5/05, Modbus Ethernet, Modbus TCP/IP,  Modbus TCP, ControlLogix, Ethernet/IP, ENI, SCADA, Visual Basic HMI, HMI, OPC Servers, OPC client, Visual Studio, Visual Basic industrial controls, Modbus, Modbus slave, MMI, HMI, AutomationDirect, ECOM, Ethernet, AB, Operator interface,  ActiveX, PLC, Allen-Bradley, DH+,  PLC, Data highway plus, SLC 500, SLC 5/04, MicroLogix, PLC 5, Modicon,  DF1, Alarming, Modbus driver, Modbus communications,  DH+ ">
+<meta name="description" content="OPC PLC controls and communications, VB HMI User interface, OPC, OPC Servers, OPC client controls, PLC, VB.Net, PLC Comm, Modbus ,  ActiveX, controls, Visual Basic, SLC 5/05, SLC 500, DH+, DF1, AB, Allen Bradley, PLC, Industrial computer, serial PLC">
+
+<meta name="GENERATOR" content="Microsoft FrontPage 12.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>PLC communication drivers OPC vb.net</title>
+</head>
+
+<body>
+<div align="left">
+
+<table border="2" width="1134" bgcolor="#000000" height="98">
+  <tr>
+    <th width="275" height="92">
+    &nbsp;<b><i><font color="#FF0000" size="5">C</font><font
+    color="#FF0000" size="4">onsoliTech </font></i></b>&nbsp;&nbsp;&nbsp; <font size="2"><br>
+    <em>&nbsp;&nbsp;</em></font><em><font color="#FFFFFF" size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    Industrial Control Products and Custom Systems</font></em></th>
+    <th align="left" width="841" height="92" background="images/fantasy_9.jpg"><font color="#00FFFF" size="4"><b><i>
+    Visual Studio, Visual Basic
+    .Net&nbsp;&nbsp; OPC client controls&nbsp; with OPC&nbsp; 
+    Servers<br>
+    also VB.Net&nbsp; native mode&nbsp; communications drivers </i></b></font></th>
+  </tr>
+</table>
+</div><div align="left">
+
+<table border="2" width="1134" height="71" background="Blue_and_Pink230.gif"
+cellspacing="4">
+  <tr>
+    <td width="97" height="65" background="images/fantasy_9.jpg"><font size="2"><br>
+    <em>&nbsp;&nbsp;</em></font><em><font color="#FFFFFF" size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </font></em></td>
+    <td width="1013" background="images/fantasy_9lite.jpg"><strong><em>
+    <font color="#99CCFF">Our Visual Basic VB.Net controls or&nbsp; OPC&nbsp;server 
+    with OPC client controls tools links your application to the factory floor PLC.</font><br>
+    </em></strong><em><strong><font color="#008000" size="4">&nbsp;&nbsp;&nbsp;&nb

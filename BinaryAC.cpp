@@ -65,6 +65,7 @@ Tree buildingTree() {
 }
 
 
+
 int buildingFailPath(Tree root) {
     int i;
     char inputchar[2];
@@ -112,6 +113,31 @@ int buildingFailPath(Tree root) {
 }
 
 
+bool ifleafnode(Tree tmp) {
+    for (int i = 0; i < ASCII; i ++) {
+        if (tmp->next[i]  != NULL) {
+            return false;
+        }
+    }
+    return true;
+}
+
+void followfailure(Tree tmp, int i, Tree root) {
+    int k = 0;
+    while(tmp->fail != root) {
+        tmp = tmp->fail;
+        if (ifleafnode(tmp) && k == 0) {
+            return;
+        }
+        if (tmp->patterTag == 1) {
+            cout<<i-strlen(pattern[tmp->patterNo])+1<<'\t'<<tmp->patterNo<<'\t'<<pattern[tmp->patterNo]<<endl;
+        }
+        k ++;
+    }
+}
+
+
+
 int searchAC(Tree root, char* str, int len, int successnum[]) {
     TreeNode *tmp=root;
     int i=0;
@@ -126,6 +152,9 @@ int searchAC(Tree root, char* str, int len, int successnum[]) {
         if (tmp->next[pos]!=NULL)
         {
             tmp=tmp->next[pos];
+            Tree temp = tmp;
+            followfailure(tmp, i, root);
+            tmp = temp;
             if(tmp->patterTag == 1) {
                 //cout << "*****************************" << endl;
                 cout<< i-strlen(pattern[tmp->patterNo])+1 << '\t' << tmp->patterNo << '\t' << pattern[tmp->patterNo] << endl;
@@ -193,7 +222,7 @@ void startmatch(char *buff, int len, int successnum[]) {
     //char a[] = "sdmfhsgnshejfgnihaofhsrnihaoSDMFHSGNSHEJFGNIHAOFHSRNIHAO";
     Tree root=buildingTree();
     buildingFailPath(root);
-    cout<< "pattern : " << pattern[0]<<" "<<pattern[1]<<" "<<pattern[2]<<" "<<pattern[3]<<" "<<endl <<endl;
+    cout<< "pattern : " << pattern[0] << " "<<pattern[1]<<" "<<pattern[2]<<" "<<pattern[3]<<" "<<endl <<endl;
     cout<< "result :" << endl << "position\t" << "NO.\t" << "pattern" <<endl;
     searchAC(root, buff, len, successnum);
     destory(root);
@@ -205,7 +234,7 @@ void startmatch(char *buff, int len, int successnum[]) {
 
 bool judge(int successnum[]) {
     cout << "success[0] : " << successnum[0] << endl;
-    if (successnum[0] * 1 >= 1) {
+    if (successnum[0] * 1 >= 1 || successnum[3] * 1 >= 1) {
         return true;
     }
     else {

@@ -6,12 +6,8 @@
 #endif // TRANSFORM_H_INCLUDED
 
 
-#include <iostream>
-#include <string>
-#include <string.h>
-#include <cstdio>
-#include <sstream>
 
+#include <string>
 using namespace std;
 
 string string2hex(string const &s);

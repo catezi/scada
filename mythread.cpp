@@ -5,7 +5,7 @@
 #include "Headers/AC.h"
 #include "Headers/callpython.h"
 
-const int patternlength = 5;
+//const int patternlength = 5;
 
 
 void* mythread(void * arg) {
@@ -16,7 +16,7 @@ void* mythread(void * arg) {
     int messagelength = 0;
     char x[] = {"scada"};
  //   patternlength = strlen(x);
-    int bmGs[patternlength]={0}, bmBc[ASIZE]={0};
+ //   int bmGs[patternlength]={0}, bmBc[ASIZE]={0};
     struct target tar;
     struct hostent *he;
     struct sockaddr_in *server_addr;
@@ -31,8 +31,8 @@ void* mythread(void * arg) {
         cout << "[**] please modify the file's name." << endl;
         return 0;
     }
-    preBmGs(x, patternlength, bmGs);
-    preBmBc(x, patternlength, bmBc);
+    //preBmGs(x, patternlength, bmGs);
+    //preBmBc(x, patternlength, bmBc);
 
     while (!in.eof()) {
         int i = 0, j = 0;
@@ -68,9 +68,16 @@ void* mythread(void * arg) {
         cout << "http_get success" << endl;
 
         string s = buff;
+
+        pthread_mutex_lock(&mutex);
         s = transform(s);
+        pthread_mutex_unlock(&mutex);
 
         char *hex;
+
+        s += '\0';
+
+        hex = (char*)malloc((s.size()+1)*sizeof(char));
 
         strcpy(hex, s.c_str());
 
@@ -114,7 +121,12 @@ void* mythread(void * arg) {
 
 
         //cout << buff << endl;
-        startmatch(hex, 8*messagelength, successnum);
+
+
+
+        startmatch(hex, s.size(), successnum);
+
+        cout << "HERE!!!" << endl;
 
         if (judge(successnum)) {
             cout << j << endl;
@@ -145,6 +157,8 @@ void* mythread(void * arg) {
             out << s;
             out.close();
         }
+
+        cout << "HERE!!!" << endl;
 
         free((void*)he);
         free((void*)server_addr);

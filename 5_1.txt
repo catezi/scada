@@ -2,13 +2,13 @@ include scada:
 1. HOST: 202.109.103.225 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Mon, 14 Nov 2016 05:27:49 GMT
+Date: Mon, 21 Nov 2016 07:46:19 GMT
 Server: Microsoft-IIS/6.0
 MicrosoftOfficeWebServer: 5.0_Pub
 X-Powered-By: ASP.NET
 Content-Length: 934
 Content-Type: text/html
-Set-Cookie: ASPSESSIONIDQCSSBAAQ=MCACIKGAAGNCHFBICGKGAIMC; path=/
+Set-Cookie: ASPSESSIONIDSCRTBABR=DDNPFJABKPIJBFALCPAIDAOL; path=/
 Cache-control: private
 
 
@@ -39,7 +39,7 @@ Cache-control: private
 </html>
 HTTP/1.1 400 Bad Request
 Content-Type: text/html
-Date: Mon, 14 Nov 2016 05:27:49 GMT
+Date: Mon, 21 Nov 2016 07:46:19 GMT
 Connection: close
 Content-Length: 35
 
@@ -47,7 +47,7 @@ Content-Length: 35
 2. HOST: 194.102.231.164 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Mon, 14 Nov 2016 05:09:44 GMT
+Date: Mon, 21 Nov 2016 07:29:45 GMT
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.22
 Vary: Accept-Encoding
@@ -86,10 +86,71 @@ table {
 </td></tr></table>
 </body>
 </html>
-3. HOST: 194.102.231.142 PORT: 80
+3. HOST: 194.103.40.193 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Mon, 14 Nov 2016 05:28:17 GMT
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Keep-Alive: timeout=20
+ETag: "567-73f-54ddf759"
+Last-Modified: Fri, 13 Feb 2015 13:08:41 GMT
+Date: Mon, 21 Nov 2016 07:44:19 GMT
+Content-Type: text/html
+Content-Length: 1855
+
+73F
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="icon" href="/scada/resources/images/scada.png">
+  <link rel="apple-touch-icon" href="/scada/resources/images/scada.png">
+  <title>Logic Machine - Start Page</title>
+  <style type="text/css">
+    body, html { margin: 0; padding: 0; background: #1B6490; height: 100%; }
+    table, td { margin: 0; padding: 0; width: 100%; height: 100%; text-align: center; }
+    a { font-family: Tahoma, Verdana, sans-serif; width: 128px; text-decoration: none; font-size: 20px; text-shadow: 1px 1px 0 #003453; color: #FFF; display: inline-block; margin: 8px; }
+    a img { opacity: 1; border: 0; width: 128px; border-radius: 16px; }
+    a:hover img { opacity: 0.9; }
+  </style>
+</head>
+<body>
+  <table>
+    <tr>
+      <td>
+        <a href="/cgi-bin/scada/index.cgi"><img src="/scada/resources/images/scada.png"> Logic<br>Machine</a>
+        <a href="/cgi-bin/flashsys/index.cgi"><img src="/scada/resources/images/system.png"> System configuration</a>
+        <a href="/cgi-bin/scada-vis/index.cgi"><img src="/scada/resources/images/visualization.png"> User mode visualization</a>
+        <a href="/cgi-bin/scada-vis/touch.html"><img src="/scada/resources/images/touch.png"> Touch visualization</a>
+        <a href="/cgi-bin/scada-vis/schedulers.cgi"><img src="/scada/resources/images/schedulers.png"> User mode schedulers</a>
+        <a href="/cgi-bin/scada-vis/trends.cgi"><img src="/scada/resources/images/trends.png"> Trend<br>logs</a>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+
+0
+
+HTTP/1.1 400 Bad Request
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Keep-Alive: timeout=20
+Content-Type: text/html
+
+14
+<h1>Bad Request</h1>
+0
+
+
+4. HOST: 194.102.231.142 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 21 Nov 2016 07:48:37 GMT
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.19
 Vary: Accept-Encoding
@@ -159,10 +220,10 @@ table {
 </td></tr></table>
 </body>
 </html>
-4. HOST: 194.102.231.132 PORT: 80
+5. HOST: 194.102.231.132 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Mon, 14 Nov 2016 05:30:17 GMT
+Date: Mon, 21 Nov 2016 07:50:39 GMT
 Server: Apache/2.2.22 (Debian)
 X-Powered-By: PHP/5.4.41-0+deb7u1
 Vary: Accept-Encoding
@@ -201,10 +262,10 @@ table {
 </td></tr></table>
 </body>
 </html>
-5. HOST: 194.102.231.161 PORT: 80
+6. HOST: 194.102.231.161 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Mon, 14 Nov 2016 05:28:16 GMT
+Date: Mon, 21 Nov 2016 07:48:36 GMT
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.20
 Vary: Accept-Encoding
@@ -243,10 +304,10 @@ table {
 </td></tr></table>
 </body>
 </html>
-6. HOST: 198.50.217.88 PORT: 80
+7. HOST: 198.50.217.88 PORT: 80
 message:
 HTTP/1.1 302 Found
-Date: Mon, 14 Nov 2016 05:28:19 GMT
+Date: Mon, 21 Nov 2016 07:48:39 GMT
 Server: Apache
 X-Powered-By: PHP/5.3.3
 location: /lite-scada
@@ -255,10 +316,10 @@ Connection: close
 Content-Type: text/html; charset=UTF-8
 
 
-7. HOST: 198.50.217.93 PORT: 80
+8. HOST: 198.50.217.93 PORT: 80
 message:
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 14 Nov 2016 05:28:20 GMT
+Date: Mon, 21 Nov 2016 07:48:42 GMT
 Server: Apache
 Location: http://www.liteautomacao.com.br/lite-scada
 Content-Length: 250
@@ -273,10 +334,10 @@ Content-Type: text/html; charset=iso-8859-1
 <p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
 </body></html>
 
-8. HOST: 198.50.217.89 PORT: 80
+9. HOST: 198.50.217.89 PORT: 80
 message:
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 14 Nov 2016 05:28:20 GMT
+Date: Mon, 21 Nov 2016 07:48:42 GMT
 Server: Apache
 Location: http://www.liteautomacao.com.br/lite-scada
 Content-Length: 250
@@ -291,10 +352,10 @@ Content-Type: text/html; charset=iso-8859-1
 <p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
 </body></html>
 
-9. HOST: 198.50.217.92 PORT: 80
+10. HOST: 198.50.217.92 PORT: 80
 message:
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 14 Nov 2016 05:28:21 GMT
+Date: Mon, 21 Nov 2016 07:48:43 GMT
 Server: Apache
 Location: http://www.liteautomacao.com.br/lite-scada
 Content-Length: 250
@@ -309,7 +370,7 @@ Content-Type: text/html; charset=iso-8859-1
 <p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
 </body></html>
 
-10. HOST: 198.71.197.164 PORT: 80
+11. HOST: 198.71.197.164 PORT: 80
 message:
 HTTP/1.1 200 OK
 Content-Type: text/html
@@ -318,7 +379,7 @@ Accept-Ranges: bytes
 ETag: "028512ab7eecd1:0"
 Server: Microsoft-IIS/7.0
 X-Powered-By: ASP.NET
-Date: Mon, 14 Nov 2016 05:28:21 GMT
+Date: Mon, 21 Nov 2016 07:48:44 GMT
 Content-Length: 51683
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
@@ -386,26 +447,56 @@ div.Section1
 h6
 	{margin-bottom:.0001pt;
 	text-align:center;
-	page-break-after:avoid;
-	font-size:11.0pt;
-	font-family:Arial;
-	font-weight:normal;
-	font-style:italic;
-	margin-left:0in; margin-right:0in; margin-top:0in}
--->
-</style>
-<link href="kinesis.css" rel="stylesheet" type="text/css">
-<script type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
+	page-break-afte
+12. HOST: 198.71.146.20 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Mon, 04 May 2015 17:06:53 GMT
+Accept-Ranges: bytes
+ETag: "e79155b88c86d01:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Mon, 21 Nov 2016 07:48:45 GMT
+Content-Length: 15170
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
+<html>
 
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=doc
+<head>
+<meta name="keywords" content="OPC, Visual Basic, VB.Net, VB, VB6, SLC 5/05, Modbus Ethernet, Modbus TCP/IP,  Modbus TCP, ControlLogix, Ethernet/IP, ENI, SCADA, Visual Basic HMI, HMI, OPC Servers, OPC client, Visual Studio, Visual Basic industrial controls, Modbus, Modbus slave, MMI, HMI, AutomationDirect, ECOM, Ethernet, AB, Operator interface,  ActiveX, PLC, Allen-Bradley, DH+,  PLC, Data highway plus, SLC 500, SLC 5/04, MicroLogix, PLC 5, Modicon,  DF1, Alarming, Modbus driver, Modbus communications,  DH+ ">
+<meta name="description" content="OPC PLC controls and communications, VB HMI User interface, OPC, OPC Servers, OPC client controls, PLC, VB.Net, PLC Comm, Modbus ,  ActiveX, controls, Visual Basic, SLC 5/05, SLC 500, DH+, DF1, AB, Allen Bradley, PLC, Industrial computer, serial PLC">
+
+<meta name="GENERATOR" content="Microsoft FrontPage 12.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>PLC communication drivers OPC vb.net</title>
+</head>
+
+<body>
+<div align="left">
+
+<table border="2" width="1134" bgcolor="#000000" height="98">
+  <tr>
+    <th width="275" height="92">
+    &nbsp;<b><i><font color="#FF0000" size="5">C</font><font
+    color="#FF0000" size="4">onsoliTech </font></i></b>&nbsp;&nbsp;&nbsp; <font size="2"><br>
+    <em>&nbsp;&nbsp;</em></font><em><font color="#FFFFFF" size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    Industrial Control Products and Custom Systems</font></em></th>
+    <th align="left" width="841" height="92" background="images/fantasy_9.jpg"><font color="#00FFFF" size="4"><b><i>
+    Visual Studio, Visual Basic
+    .Net&nbsp;&nbsp; OPC client controls&nbsp; with OPC&nbsp; 
+    Servers<br>
+    also VB.Net&nbsp; native mode&nbsp; communications drivers </i></b></font></th>
+  </tr>
+</table>
+</div><div align="left">
+
+<table border="2" width="1134" height="71" background="Blue_and_Pink230.gif"
+cellspacing="4">
+  <tr>
+    <td width="97" height="65" background="images/fantasy_9.jpg"><font size="2"><br>
+    <em>&nbsp;&nbsp;</em></font><em><font color="#FFFFFF" size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </font></em></td>
+    <td width="1013" background="images/fantasy_9lite.jpg"><strong><em>
+    <font color="#99CCFF">Our Visual Basic VB.Net controls or&nbsp; OPC&nbsp;server 
+    with OPC client controls tools links your application to the factory floor PLC.</font><br>
+    </em></strong><em><strong><font color="#008000" size="4">&nbsp;&nbsp;&nbsp;&nb

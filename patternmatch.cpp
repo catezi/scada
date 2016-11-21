@@ -4,7 +4,7 @@
 
 using namespace std;
 
-const int patternlength = 5;
+//const int patternlength = 5;
 
 void preBmBc(char *x, int m, int bmBc[]) {
    int i;
