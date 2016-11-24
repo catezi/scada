@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1479994402 source:/home/zhutc/code/httpget/main.cpp
+	"Headers/define.h"
+
+1479993911 /home/zhutc/code/httpget/Headers/define.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<string.h>
+	<unistd.h>
+	<dirent.h>
+	<vector>
+	<fstream>
+	<sys/types.h>
+	<sys/socket.h>
+	<stdio.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/shm.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+	<pthread.h>
+	<sys/time.h>
+	<signal.h>
+	<sys/ioctl.h>
+	<malloc.h>
+	<sstream>
+	"fileop.h"
+	"client.h"
+	"mythread.h"
+	<time.h>
+
+1479980660 /home/zhutc/code/httpget/Headers/fileop.h
+	<vector>
+	<string>
+
+1479990686 source:/home/zhutc/code/httpget/fileop.cpp
+	"Headers/define.h"
+
+1479987640 /home/zhutc/code/httpget/Headers/client.h
+
+1479988763 /home/zhutc/code/httpget/Headers/mythread.h
+
+1479987305 source:/home/zhutc/code/httpget/client.cpp
+	"Headers/define.h"
+
+1479993752 source:/home/zhutc/code/httpget/mythread.cpp
+	"Headers/define.h"
+

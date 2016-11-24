@@ -58,6 +58,7 @@ struct target {
 struct ARGS {
    string filename;
    int threadid;
+   bool finish;
 };
 
 typedef struct node {
