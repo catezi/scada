@@ -10,9 +10,9 @@ void* mythread(void * arg) {
     struct sockaddr_in *server_addr;
     string outfilename = threadoutfile.at(thisthreadid-1);
     char buff[BUFFER_MAX] = {'\0'};
-    cout << tar.host <<endl;
+    //cout << tar.host <<endl;
     socket_fd = http_tcpclient_create();
-    cout << "tcpclient create success" << endl;
+    //cout << "tcpclient create success" << endl;
     if(socket_fd < 0){
         cout << "host: " << tar.host << " port: " << tar.port << "[**]http_tcpclient_create failed." << endl;
         free(arg);
@@ -27,10 +27,11 @@ void* mythread(void * arg) {
         threadfree.at(thisthreadid - 1) = true;
         return NULL;
     }
-    cout << "http_get success" << endl;
+    //cout << "http_get success" << endl;
+    pthread_mutex_lock(&mutex);
     char s[BUFFER_MAX] = {'\0'};
     sprintf(s, "HOST: %s PORT: %d\nmessage:\n%s\n", tar.host, tar.port, buff);
-    cout << outfilename << endl;
+    //cout << outfilename << endl;
     ofstream out(outfilename, std::ios::app);
     if (!out.is_open()) {
         open((char*)outfilename.c_str(), (O_CREAT|O_WRONLY|O_TRUNC));
@@ -38,13 +39,14 @@ void* mythread(void * arg) {
     }
     out << s;
     out.close();
-    pthread_mutex_unlock(&mutex);
+    
     free((void*)he);
     free((void*)server_addr);
     http_tcpclient_close(socket_fd);
-    cout << thisthreadid << endl;
+    //cout << thisthreadid << endl;
     threadfree.at(thisthreadid - 1) = true;
-    pthread_mutex_lock(&mutex);
+    cout << "host: " << tar.host << " port: " << tar.port << " success!!!" << endl;
+    pthread_mutex_unlock(&mutex);
     free(arg);
     return NULL;
 }

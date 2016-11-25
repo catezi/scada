@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1479994402 source:/home/zhutc/code/httpget/main.cpp
+1479997164 source:/home/zhutc/code/httpget/main.cpp
 	"Headers/define.h"
 
-1479993911 /home/zhutc/code/httpget/Headers/define.h
+1479997547 /home/zhutc/code/httpget/Headers/define.h
 	<stdio.h>
 	<stdlib.h>
 	<iostream>
@@ -45,9 +45,9 @@
 
 1479988763 /home/zhutc/code/httpget/Headers/mythread.h
 
-1479987305 source:/home/zhutc/code/httpget/client.cpp
+1479997289 source:/home/zhutc/code/httpget/client.cpp
 	"Headers/define.h"
 
-1479993752 source:/home/zhutc/code/httpget/mythread.cpp
+1479997489 source:/home/zhutc/code/httpget/mythread.cpp
 	"Headers/define.h"
 

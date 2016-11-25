@@ -1,9 +1,9 @@
-HOST: 194.102.231.132 PORT: 80
+HOST: 194.102.231.161 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Thu, 24 Nov 2016 13:14:55 GMT
+Date: Thu, 24 Nov 2016 13:40:06 GMT
 Server: Apache/2.2.22 (Ubuntu)
-X-Powered-By: PHP/5.3.10-1ubuntu3.22
+X-Powered-By: PHP/5.3.10-1ubuntu3.20
 Vary: Accept-Encoding
 Content-Length: 818
 Content-Type: text/html
@@ -40,18 +40,12 @@ table {
 </td></tr></table>
 </body>
 </html>
-HOST: 194.102.231.161 PORT: 80
-message:
-HTTP/1.1 200 OK
-Connection: Keep-Alive
-Transfer-Encoding: chunked
-
 HOST: 198.50.217.88 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Thu, 24 Nov 2016 13:33:53 GMT
+Date: Thu, 24 Nov 2016 13:40:06 GMT
 Server: Apache/2.2.22 (Ubuntu)
-X-Powered-By: PHP/5.3.10-1ubuntu3.19
+X-Powered-By: PHP/5.3.10-1ubuntu3.20
 Vary: Accept-Encoding
 Content-Length: 818
 Content-Type: text/html
@@ -90,31 +84,83 @@ table {
 </html>
 HOST: 198.12.151.204 PORT: 80
 message:
-(null) 400 Bad Request
-Server: 
-Date: Thu, 24 Nov 2016 14:33:51 GMT
-Cache-Control: no-cache,no-store,max-age=0
-Prama: no-cache
-X-Frame-Options: DENY
-Expires: 0
-X-Content-Type-Options: nosniff
-X-XSS-Protection: 1; mode=block
-Content-Language: en
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 13:40:06 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.20
+Vary: Accept-Encoding
+Content-Length: 818
 Content-Type: text/html
-Connection: close
 
-            <HTML>
-            <HEAD><TITLE>400 Bad Request</TITLE></HEAD>
-            <BODY BGCOLOR="#cc9999" TEXT="#000000" LINK="#2020ff" VLINK="#4040cc">
-            <H4>400 Bad Request</H4>
-Invalid Request
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
+</html>
 HOST: 198.50.217.93 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Thu, 24 Nov 2016 13:35:54 GMT
-Server: Apache/2.2.22 (Debian)
-X-Powered-By: PHP/5.4.41-0+deb7u1
+Date: Thu, 24 Nov 2016 13:40:06 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.20
 Vary: Accept-Encoding
 Content-Length: 818
 Content-Type: text/html
@@ -154,117 +200,80 @@ table {
 HOST: 198.50.217.89 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Thu, 24 Nov 2016 13:33:53 GMT
-Server: Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 PHP/5.4.38
-X-Powered-By: PHP/5.4.38
-Transfer-Encoding: chunked
+Date: Thu, 24 Nov 2016 13:40:06 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.20
+Vary: Accept-Encoding
+Content-Length: 818
 Content-Type: text/html
 
-379b
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />-->
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>RfWeL - Rf Wireless Electronics, Welcome</title>
-<meta name="keywords" content="Remote Wireless, 3G, 4G, WiMax, SCADA, M2M, Cellular Data, Wireless Amplifier, Antenna, Long Range Wireless">
-
-<link href="css/submenux.css" rel="stylesheet" type="text/css">
-<link href="css/menu.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
 </head>
-
-<body id="hgcBodyTag" bgcolor="#ffffff" text="#000000">
-<!-- Include Std header  -->
-<!-- Reference To Other Files Start  -->
-			<link rel="stylesheet" href="//www.rfwel.com/css/submenux.css" type="text/css">
-			<link rel="stylesheet" href="//www.rfwel.com/css/menu.css" type="text/css">
- <!--add favicon -->
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
- <!--end add favicon -->
-			<script type="text/javascript" src="//www.rfwel.com/scripts/DropDownMenu1.js"></scrip
-HOST: 198.71.197.164 PORT: 80
-message:
-HTTP/1.1 302 Found
-Date: Thu, 24 Nov 2016 13:33:53 GMT
-Server: Apache
-X-Powered-By: PHP/5.3.3
-location: /lite-scada
-Content-Length: 0
-Connection: close
-Content-Type: text/html; charset=UTF-8
-
-
-HOST: 193.125.126.125 PORT: 80
-message:
-HTTP/1.1 301 Moved Permanently
-Date: Thu, 24 Nov 2016 13:33:53 GMT
-Server: Apache
-Location: http://www.liteautomacao.com.br/lite-scada
-Content-Length: 250
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>301 Moved Permanently</title>
-</head><body>
-<h1>Moved Permanently</h1>
-<p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
-</body></html>
-
-HOST: 193.210.229.43 PORT: 80
-message:
-HTTP/1.1 200 OK
-Content-Type: text/html
-Last-Modified: Mon, 04 May 2015 17:06:53 GMT
-Accept-Ranges: bytes
-ETag: "e79155b88c86d01:0"
-Server: Microsoft-IIS/7.0
-X-Powered-By: ASP.NET
-Date: Thu, 24 Nov 2016 13:33:52 GMT
-Content-Length: 15170
-
-<html>
-
-<head>
-<meta name="keywords" content="OPC, Visual Basic, VB.Net, VB, VB6, SLC 5/05, Modbus Ethernet, Modbus TCP/IP,  Modbus TCP, ControlLogix, Ethernet/IP, ENI, SCADA, Visual Basic HMI, HMI, OPC Servers, OPC client, Visual Studio, Visual Basic industrial controls, Modbus, Modbus slave, MMI, HMI, AutomationDirect, ECOM, Ethernet, AB, Operator interface,  ActiveX, PLC, Allen-Bradley, DH+,  PLC, Data highway plus, SLC 500, SLC 5/04, MicroLogix, PLC 5, Modicon,  DF1, Alarming, Modbus driver, Modbus communications,  DH+ ">
-<meta name="description" content="OPC PLC controls and communications, VB HMI User interface, OPC, OPC Servers, OPC client controls, PLC, VB.Net, PLC Comm, Modbus ,  ActiveX, controls, Visual Basic, SLC 5/05, SLC 500, DH+, DF1, AB, Allen Bradley, PLC, Industrial computer, serial PLC">
-
-<meta name="GENERATOR" content="Microsoft FrontPage 12.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-<title>PLC communication drivers OPC vb.net</title>
-</head>
-
 <body>
-<div align="left">
-
-<table border="2" width="1134" bgcolor="#000000" height="98">
-  <tr>
-    <th width="275" height="92">
-    &nbsp;<b><i><font color="#FF0000" size="5
-HOST: 193.107.223.82 PORT: 80
-message:
-HTTP/1.1 301 Moved Permanently
-Date: Thu, 24 Nov 2016 13:33:53 GMT
-Server: Apache
-Location: http://www.liteautomacao.com.br/lite-scada
-Content-Length: 250
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>301 Moved Permanently</title>
-</head><body>
-<h1>Moved Permanently</h1>
-<p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
-</body></html>
-
-HOST: 194.106.104.243 PORT: 80
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
+</html>
+HOST: 198.50.217.89 PORT: 80
 message:
 HTTP/1.1 200 OK
-Date: Thu, 24 Nov 2016 13:33:54 GMT
+Date: Thu, 24 Nov 2016 13:40:06 GMT
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.20
 Vary: Accept-Encoding
@@ -303,7 +312,159 @@ table {
 </td></tr></table>
 </body>
 </html>
-HOST: 194.106.104.243 PORT: 80
+HOST: 198.71.197.164 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 13:40:06 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.20
+Vary: Accept-Encoding
+Content-Length: 818
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>click your scada</title>
+<style type="text/css">
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+table { 
+	text-align: center;
+	height: 100%;
+	width: 100%; 
+	border: 0;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+</head>
+<body>
+<table><tr><td>
+	<div id="js_alert">
+		Loading ...<br />
+		If page does not load, Javascript is disabled!
+	</div>
+<script type="text/javascript">
+	window.location="main.php";
+</script>
+</td></tr></table>
+</body>
+</html>
+HOST: 198.71.146.20 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 13:40:06 GMT
+Server: Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 PHP/5.4.38
+X-Powered-By: PHP/5.4.38
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+379b
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />-->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>RfWeL - Rf Wireless Electronics, Welcome</title>
+<meta name="keywords" content="Remote Wireless, 3G, 4G, WiMax, SCADA, M2M, Cellular Data, Wireless Amplifier, Antenna, Long Range Wireless">
+
+<link href="css/submenux.css" rel="stylesheet" type="text/css">
+<link href="css/menu.css" rel="stylesheet" type="text/css">
+</head>
+
+<body id="hgcBodyTag" bgcolor="#ffffff" text="#000000">
+<!-- Include Std header  -->
+<!-- Reference To Other Files Start  -->
+			<link rel="stylesheet" href="//www.rfwel.com/css/submenux.css" type="text/css">
+			<link rel="stylesheet" href="//www.rfwel.com/css/menu.css" type="text/css">
+ <!--add favicon -->
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+ <!--end add favicon -->
+			<script type="text/javascript" src="//www.rfwel.com/scripts/DropDownMenu1.js"></scrip
+HOST: 199.203.67.26 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Thu, 24 Nov 2016 13:40:07 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.3
+location: /lite-scada
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+HOST: 200.27.94.171 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 24 Nov 2016 13:40:07 GMT
+Server: Apache
+Location: http://www.liteautomacao.com.br/lite-scada
+Content-Length: 250
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
+</body></html>
+
+HOST:  PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 24 Nov 2016 13:40:07 GMT
+Server: Apache
+Location: http://www.liteautomacao.com.br/lite-scada
+Content-Length: 250
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
+</body></html>
+
+HOST: 193.125.126.125 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Mon, 04 May 2015 17:06:53 GMT
+Accept-Ranges: bytes
+ETag: "e79155b88c86d01:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Thu, 24 Nov 2016 13:40:06 GMT
+Content-Length: 15170
+
+<html>
+
+<head>
+<meta name="keywords" content="OPC, Visual Basic, VB.Net, VB, VB6, SLC 5/05, Modbus Ethernet, Modbus TCP/IP,  Modbus TCP, ControlLogix, Ethernet/IP, ENI, SCADA, Visual Basic HMI, HMI, OPC Servers, OPC client, Visual Studio, Visual Basic industrial controls, Modbus, Modbus slave, MMI, HMI, AutomationDirect, ECOM, Ethernet, AB, Operator interface,  ActiveX, PLC, Allen-Bradley, DH+,  PLC, Data highway plus, SLC 500, SLC 5/04, MicroLogix, PLC 5, Modicon,  DF1, Alarming, Modbus driver, Modbus communications,  DH+ ">
+<meta name="description" content="OPC PLC controls and communications, VB HMI User interface, OPC, OPC Servers, OPC client controls, PLC, VB.Net, PLC Comm, Modbus ,  ActiveX, controls, Visual Basic, SLC 5/05, SLC 500, DH+, DF1, AB, Allen Bradley, PLC, Industrial computer, serial PLC">
+
+<meta name="GENERATOR" content="Microsoft FrontPage 12.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>PLC communication drivers OPC vb.net</title>
+</head>
+
+<body>
+<div align="left">
+
+<table border="2" width="1134" bgcolor="#000000" height="98">
+  <tr>
+    <th width="275" height="92">
+    &nbsp;<b><i><font color="#FF0000" size="5
+HOST: 193.210.229.43 PORT: 80
 message:
 HTTP/1.1 200 OK
 Content-Type: text/html
@@ -312,7 +473,34 @@ Accept-Ranges: bytes
 ETag: "028512ab7eecd1:0"
 Server: Microsoft-IIS/7.0
 X-Powered-By: ASP.NET
-Date: Thu, 24 Nov 2016 13:33:53 GMT
+Date: Thu, 24 Nov 2016 13:40:07 GMT
+Content-Length: 51683
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+
+<HEAD><meta name="google-site-verification" content="ihmRz9woeXj9UZbepqcD-rT5xQAD4xB9fIms-bDHtY8" /><TITLE>Kinesix Software - Human machine interface software for complex 
+real-time data. We combine the best capabilities of HMI software, SCADA software 
+and GUI software in a single solution.</TITLE>
+
+<link rel="icon" href="http://www.kinesix.com/favicon.ico" type="image/x-icon"/> 
+<link rel="shortcut icon" href="http://www.kinesix.com/favicon.ico" type="image/x-icon"/> 
+
+
+
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name= "description" content= "Offering human machine interface software for complex real-time data. We combine the best capabilities of HMI software, SCADA software and GUI software in a single solution."> 
+<meta name="keywords" content="Kinesix, Kinesix software, Kinesix Corporation, Sammi, HMI software, data visualization, data visualization software, real time software, real-time, dynamic graphics, java graphics
+HOST: 193.107.223.82 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 09 Jan 2013 22:17:52 GMT
+Accept-Ranges: bytes
+ETag: "028512ab7eecd1:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Thu, 24 Nov 2016 13:40:07 GMT
 Content-Length: 51683
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
@@ -386,71 +574,17 @@ h6
 	font-weight:normal;
 	font-style:italic;
 	margin-left:0in; margin-right
-HOST: 194.103.40.193 PORT: 80
+HOST: 194.106.104.243 PORT: 80
 message:
-(null) 400 Bad Request
-Server: 
-Date: Thu, 24 Nov 2016 14:33:53 GMT
-Cache-Control: no-cache,no-store,max-age=0
-Prama: no-cache
-X-Frame-Options: DENY
-Expires: 0
-X-Content-Type-Options: nosniff
-X-XSS-Protection: 1; mode=block
-Content-Language: en
-Content-Type: text/html
-Connection: close
-
-            <HTML>
-            <HEAD><TITLE>400 Bad Request</TITLE></HEAD>
-            <BODY BGCOLOR="#cc9999" TEXT="#000000" LINK="#2020ff" VLINK="#4040cc">
-            <H4>400 Bad Request</H4>
-Invalid Request
-
-HOST: 194.102.231.142 PORT: 80
-message:
-(null) 400 Bad Request
-Server: 
-Date: Thu, 24 Nov 2016 14:33:53 GMT
-Cache-Control: no-cache,no-store,max-age=0
-Prama: no-cache
-X-Frame-Options: DENY
-Expires: 0
-X-Content-Type-Options: nosniff
-X-XSS-Protection: 1; mode=block
-Content-Language: en
-Content-Type: text/html
-Connection: close
-
-            <HTML>
-            <HEAD><TITLE>400 Bad Request</TITLE></HEAD>
-            <BODY BGCOLOR="#cc9999" TEXT="#000000" LINK="#2020ff" VLINK="#4040cc">
-            <H4>400 Bad Request</H4>
-Invalid Request
+HTTP/1.1 200 OK
+Connection: Keep-Alive
+Transfer-Encoding: chunked
 
 HOST: 194.17.166.12 PORT: 80
 message:
-HTTP/1.1 301 Moved Permanently
-Date: Thu, 24 Nov 2016 13:33:54 GMT
-Server: Apache
-Location: http://www.liteautomacao.com.br/lite-scada
-Content-Length: 250
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>301 Moved Permanently</title>
-</head><body>
-<h1>Moved Permanently</h1>
-<p>The document has moved <a href="http://www.liteautomacao.com.br/lite-scada">here</a>.</p>
-</body></html>
-
-HOST: 198.50.217.92 PORT: 80
-message:
 (null) 400 Bad Request
 Server: 
-Date: Thu, 24 Nov 2016 14:33:53 GMT
+Date: Thu, 24 Nov 2016 14:40:06 GMT
 Cache-Control: no-cache,no-store,max-age=0
 Prama: no-cache
 X-Frame-Options: DENY
@@ -467,3 +601,44 @@ Connection: close
             <H4>400 Bad Request</H4>
 Invalid Request
 
+HOST: 198.50.217.93 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 13:40:09 GMT
+Server: Apache/2.2.15 (Red Hat)
+Last-Modified: Thu, 12 Jun 2014 23:19:37 GMT
+ETag: "2c1f7a-37cd-4fbabcb697d3a"
+Accept-Ranges: bytes
+Content-Length: 14285
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="es">
+	
+	<!-- HEAD -->
+	<head>
+		
+<title>Chilectra</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link type="image/x-icon" rel="icon" href="img/favicon.ico">
+<link type="image/x-icon" rel="shortcut icon" href="img/favicon.ico">
+
+<!-- stylesheet -->
+
+
+<link rel="stylesheet" media="all" href="css/piceChilectra.css"  type='text/css'/>
+<link rel="stylesheet" media="all" href="css/normalize.css"  type='text/css'/>
+
+<link href='https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700,300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Scada:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+<style type="text/css"></style>
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<!-- scripts -->
+<script src="js/jquery-1.9.1.min.js">

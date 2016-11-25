@@ -57,7 +57,7 @@ int main(int argc, char* argv[])
             for (i += 2; line[i] != '\0'; i ++) {
                 tar.port = tar.port*10 + (line[i] - '0');
             }
-            cout << tar.host << endl;
+            cout << tar.host << " start!!!" << endl;
             while (true) {
                 int flag = 0;
                 vector<int>::iterator threadidit;
@@ -80,7 +80,8 @@ int main(int argc, char* argv[])
                         }
                     }
                     else {
-                        if (time((time_t*)NULL) - threadtime.at(*threadidit-1) >= 2) {
+                        if (time((time_t*)NULL) - threadtime.at(*threadidit-1) > threadnum) {
+                            cout << threadtarget.at(*threadidit-1).host << " overtime!" << endl;
                             pthread_cancel(id[*threadidit-1]);
                             threadfree.at(*threadidit-1) = true;
                         }
