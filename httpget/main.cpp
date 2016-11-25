@@ -22,6 +22,7 @@ int main(int argc, char* argv[])
             threadnum = atoi(argv[++ i]);
         }
         else {
+        	cout << "Please use arguments -n with your file's absolute path and -t with the number of threads to init." << endl;
             return 0;
         }
     }
