@@ -1,0 +1,88 @@
+HOST: 192.198.2.102 PORT: 80
+message:
+HTTP/1.1 302 Found
+Set-Cookie: AIROS_44D9E7420F73=c2415b7bdec2d4d3ff57c6143e989c13; Path=/; Version=1
+Location: /cookiechecker?uri=/
+Content-Length: 0
+Date: Thu, 24 Nov 2016 14:09:34 GMT
+Server: lighttpd/1.4.35
+
+
+HOST: 192.198.2.102 PORT: 80
+message:
+HTTP/1.1 302 Found
+Set-Cookie: AIROS_44D9E7420F73=7acaca120a175ad29bd03c1005354403; Path=/; Version=1
+Location: /cookiechecker?uri=/
+Content-Length: 0
+Date: Thu, 24 Nov 2016 14:09:34 GMT
+Server: lighttpd/1.4.35
+
+
+HOST: 192.198.2.102 PORT: 80
+message:
+HTTP/1.1 302 Found
+Set-Cookie: AIROS_44D9E7420F73=5da05ad1e96227018c64d19bcd0c99ad; Path=/; Version=1
+Location: /cookiechecker?uri=/
+Content-Length: 0
+Date: Thu, 24 Nov 2016 14:09:34 GMT
+Server: lighttpd/1.4.35
+
+
+HOST: 192.198.2.102 PORT: 80
+message:
+HTTP/1.1 302 Found
+Set-Cookie: AIROS_44D9E7420F73=e2268805fa7237d39173c05698d18c5c; Path=/; Version=1
+Location: /cookiechecker?uri=/
+Content-Length: 0
+Date: Thu, 24 Nov 2016 14:09:34 GMT
+Server: lighttpd/1.4.35
+
+
+HOST: 192.198.102.132 PORT: 80
+message:
+HTTP/1.1 302 Found
+Set-Cookie: AIROS_DC9FDBF4174A=ab8af11816dc3aee687eb2b8b018f6eb; Path=/; Version=1
+Location: /cookiechecker?uri=/
+Content-Length: 0
+Date: Thu, 24 Nov 2016 14:09:34 GMT
+Server: lighttpd/1.4.35
+
+
+HOST: 192.198.110.108 PORT: 80
+message:
+HTTP/1.1 302 Found
+Set-Cookie: AIROS_24A43C9254E8=be56d91b4062c676863440a11eb94568; Path=/; Version=1
+Location: /cookiechecker?uri=/
+Content-Length: 0
+Date: Thu, 24 Nov 2016 14:09:35 GMT
+Server: lighttpd/1.4.35
+
+
+HOST: 192.198.113.242 PORT: 80
+message:
+HTTP/1.1 302 Found
+Set-Cookie: AIROS_DC9FDBF4174A=e698d74af9a8e174482f6cd7c8eb384d; Path=/; Version=1
+Location: /cookiechecker?uri=/
+Content-Length: 0
+Date: Thu, 24 Nov 2016 14:09:36 GMT
+Server: lighttpd/1.4.35
+
+HTTP/1.0 400 Bad Request
+Content-Type: text/html
+Content-Length: 349
+Connection: close
+Date: Thu, 24 Nov 2016 14:09:36 GMT
+Server: lighttpd/1.4.35
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>400 - Bad Request</title>
+ </head>
+ <body>
+  <h1>400 - Bad Request</h1>
+ </body>
+</html>
+

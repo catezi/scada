@@ -24,8 +24,8 @@ int http_tcpclient_create(){
     connect server
 */
 int http_tcpclient_connect(int socket_fd, char* host, int port, struct hostent *he, struct sockaddr_in *server_addr) {
-    cout << "http_tcpclient_connect start" << endl;
-    cout << host << port << socket_fd << endl;
+    //cout << "http_tcpclient_connect start" << endl;
+    //cout << host << port << socket_fd << endl;
     if (socket_fd == -1) {
         return -1;
     }
@@ -35,7 +35,7 @@ int http_tcpclient_connect(int socket_fd, char* host, int port, struct hostent *
     server_addr->sin_family = AF_INET;
     server_addr->sin_port = htons(port);
     server_addr->sin_addr = *((struct in_addr *)he->h_addr);
-    cout << socket_fd << " " << host << " :" << port << endl;
+    //cout << socket_fd << " " << host << " :" << port << endl;
 
     /*fd_set rfd;
     struct timeval timeout;
@@ -62,7 +62,7 @@ int http_tcpclient_connect(int socket_fd, char* host, int port, struct hostent *
     }
 
 
-    cout << "http_tcpclient_connect finish" << endl;
+    //cout << "http_tcpclient_connect finish" << endl;
     return socket_fd;
 }
 /**
@@ -77,7 +77,7 @@ void http_tcpclient_close(int socket){
 */
 int http_tcpclient_send(int socket,char *buff,int size){
     int sent=0,tmpres=0;
-    cout << "http_tcpclient_send start" << endl;
+    //cout << "http_tcpclient_send start" << endl;
     while(sent < size){
         tmpres = send(socket,buff+sent,size-sent,0);
         if(tmpres == -1){
@@ -85,7 +85,7 @@ int http_tcpclient_send(int socket,char *buff,int size){
         }
         sent += tmpres;
     }
-    cout << "httptcp_client_send finish" << endl;
+    //cout << "httptcp_client_send finish" << endl;
     return sent;
 }
 
@@ -97,7 +97,7 @@ int http_tcpclient_recv(int socket, char buff[]){
     int i = 0;
     int res = 0;
     int messagelength = 0;
-    cout << "http_tcpclient_recv start" << endl;
+    //cout << "http_tcpclient_recv start" << endl;
     char lpbuff[BUFFER_SIZE*4] = {'\0'};
     int nNetTimeout=5000;
     setsockopt(socket, SOL_SOCKET, SO_SNDTIMEO, (char*)&nNetTimeout, sizeof(int));
@@ -134,7 +134,7 @@ int http_tcpclient_recv(int socket, char buff[]){
     if (i == 0) {
         return -1;
     }
-    cout << "http_tcpclient_recv finish" << endl;
+    //cout << "http_tcpclient_recv finish" << endl;
     return messagelength;
 }
 
@@ -172,7 +172,7 @@ int http_get(char *host, int port, int socket_fd, struct hostent *he, struct soc
     int messagelength = 0;
     char file[BUFFER_SIZE] = {'\0'};
     char sendbuf[BUFFER_SIZE*4] = {'\0'};
-    cout << "http_get start" << endl;
+    //cout << "http_get start" << endl;
     if(!host){
         printf("      failed!\n");
         return -1;
@@ -189,6 +189,6 @@ int http_get(char *host, int port, int socket_fd, struct hostent *he, struct soc
         cout << "http_tcpclient_recv failed.." << endl;
         return -1;
     }
-    cout << "http_get finish" << endl;
+    //cout << "http_get finish" << endl;
     return messagelength;
 }

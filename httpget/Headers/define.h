@@ -38,7 +38,7 @@
 #include <time.h>
 
 
-#define infilenum = 100000
+#define threadmaxruntime 5
 
 
 using namespace std;

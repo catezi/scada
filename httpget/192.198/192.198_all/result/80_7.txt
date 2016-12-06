@@ -1,0 +1,4014 @@
+HOST: 192.198.208.94 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:18 GMT
+Server: Apache
+Last-Modified: Wed, 29 Jun 2016 19:54:37 GMT
+Accept-Ranges: bytes
+Content-Length: 111
+Content-Type: text/html
+
+<html><head><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
+HTTP/1.1 400 Bad Request
+Date: Thu, 24 Nov 2016 14:09:18 GMT
+Server: Apache
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>400 Bad Request</title>
+    <style type="text/css">
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            line-height: 1.428571429;
+            background-color: #ffffff;
+            color: #2F3230;
+            padding: 0;
+            margin: 0;
+        }
+        section, footer {
+            display: block;
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 10px;
+        }
+        .response-info {
+            color: #CCCCCC;
+        }
+        .status-code {
+            f
+HOST: 192.198.208.129 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:18 GMT
+Server: Apache
+Last-Modified: Wed, 29 Jun 2016 19:54:37 GMT
+Accept-Ranges: bytes
+Content-Length: 111
+Content-Type: text/html
+
+<html><head><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
+HTTP/1.1 400 Bad Request
+Date: Thu, 24 Nov 2016 14:09:18 GMT
+Server: Apache
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>400 Bad Request</title>
+    <style type="text/css">
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            line-height: 1.428571429;
+            background-color: #ffffff;
+            color: #2F3230;
+            padding: 0;
+            margin: 0;
+        }
+        section, footer {
+            display: block;
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 10px;
+        }
+        .response-info {
+            color: #CCCCCC;
+        }
+        .status-code {
+            f
+HOST: 192.198.208.161 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:18 GMT
+Server: Apache
+Last-Modified: Wed, 29 Jun 2016 19:54:37 GMT
+Accept-Ranges: bytes
+Content-Length: 111
+Content-Type: text/html
+
+<html><head><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
+HTTP/1.1 400 Bad Request
+Date: Thu, 24 Nov 2016 14:09:18 GMT
+Server: Apache
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>400 Bad Request</title>
+    <style type="text/css">
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            line-height: 1.428571429;
+            background-color: #ffffff;
+            color: #2F3230;
+            padding: 0;
+            margin: 0;
+        }
+        section, footer {
+            display: block;
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 10px;
+        }
+        .response-info {
+            color: #CCCCCC;
+        }
+        .status-code {
+            f
+HOST: 192.198.208.163 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:18 GMT
+Server: Apache
+Last-Modified: Wed, 29 Jun 2016 19:54:37 GMT
+Accept-Ranges: bytes
+Content-Length: 111
+Content-Type: text/html
+
+<html><head><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
+HTTP/1.1 400 Bad Request
+Date: Thu, 24 Nov 2016 14:09:18 GMT
+Server: Apache
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>400 Bad Request</title>
+    <style type="text/css">
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            line-height: 1.428571429;
+            background-color: #ffffff;
+            color: #2F3230;
+            padding: 0;
+            margin: 0;
+        }
+        section, footer {
+            display: block;
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 10px;
+        }
+        .response-info {
+            color: #CCCCCC;
+        }
+        .status-code {
+            f
+HOST: 192.198.208.164 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Thu, 24 Nov 2016 14:09:18 GMT
+X-VMWARE-VCLOUD-REQUEST-ID: requestId=57690f9e-0218-4d02-b4ed-6eb1beb051d9
+Set-Cookie: JSESSIONID=16pyift3vbrt81b7w3bq14jkzz;Path=/
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: /cloud
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 2
+
+
+
+HTTP/1.1 400 Bad Request
+Connection: close
+
+
+HOST: 192.198.208.193 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:11:27 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.208.210 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:11:27 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.208.218 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 24 Nov 2016 21:04:31 GMT
+Server: Apache/2.2.10 (Linux/SUSE)
+Location: http://www.vvme.com/
+Content-Length: 313
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.vvme.com/">here</a>.</p>
+<hr>
+<address>Apache/2.2.10 (Linux/SUSE) Server at 192.198.208.164 Port 80</address>
+</body></html>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.vvme.com/">here</a>.</p>
+<hr>
+<address>Apache/2.2.10 (Linux/SUSE) Server at vvme.com Port 80</address>
+</body></html>
+
+HOST: 192.198.208.218 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 24 Nov 2016 21:04:31 GMT
+Server: Apache/2.2.10 (Linux/SUSE)
+Location: http://www.vvme.com/
+Content-Length: 313
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.vvme.com/">here</a>.</p>
+<hr>
+<address>Apache/2.2.10 (Linux/SUSE) Server at 192.198.208.164 Port 80</address>
+</body></html>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.vvme.com/">here</a>.</p>
+<hr>
+<address>Apache/2.2.10 (Linux/SUSE) Server at vvme.com Port 80</address>
+</body></html>
+
+HOST: 192.198.208.225 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+2847
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/default2014.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>RTI - Your systems. Working as one.</title>
+<meta name="description" content="" />
+<meta name="author" content="" />
+<!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
+<link href="/css/fancybox/jquery-fancybox.css" rel="stylesheet">
+<link href="/css/custom.1475633063.css" rel="stylesheet" />
+<!-- Fav and touch icons -->
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x6
+HOST: 192.198.208.226 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+2847
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/default2014.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>RTI - Your systems. Working as one.</title>
+<meta name="description" content="" />
+<meta name="author" content="" />
+<!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
+<link href="/css/fancybox/jquery-fancybox.css" rel="stylesheet">
+<link href="/css/custom.1475633063.css" rel="stylesheet" />
+<!-- Fav and touch icons -->
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x6
+HOST: 192.198.208.238 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:11:27 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.208.247 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:08:18 GMT
+Server: Apache/2.4.7 (Ubuntu)
+X-Powered-By: Servlet/3.0 JSP/2.2 (GlassFish Server Open Source Edition 3.1.2.2 Java/Oracle Corporation/1.7)
+X-Powered-By: JSF/2.0
+Accept-Ranges: bytes
+ETag: W/"57-1476414515000"
+Last-Modified: Fri, 14 Oct 2016 03:08:35 GMT
+Content-Length: 57
+Content-Type: text/html;charset=ISO-8859-1
+
+<meta http-equiv="refresh" content="0;url=MainGateway">
+
+HOST: 192.198.208.251 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Server: Apache
+Last-Modified: Wed, 29 Jun 2016 19:54:37 GMT
+Accept-Ranges: bytes
+Content-Length: 111
+Content-Type: text/html
+
+<html><head><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
+HTTP/1.1 400 Bad Request
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Server: Apache
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>400 Bad Request</title>
+    <style type="text/css">
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            line-height: 1.428571429;
+            background-color: #ffffff;
+            color: #2F3230;
+            padding: 0;
+            margin: 0;
+        }
+        section, footer {
+            display: block;
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 10px;
+        }
+        .response-info {
+            color: #CCCCCC;
+        }
+        .status-code {
+            f
+HOST: 192.198.208.252 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Server: Apache
+Last-Modified: Wed, 29 Jun 2016 19:54:37 GMT
+Accept-Ranges: bytes
+Content-Length: 111
+Content-Type: text/html
+
+<html><head><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
+HTTP/1.1 400 Bad Request
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Server: Apache
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>400 Bad Request</title>
+    <style type="text/css">
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            line-height: 1.428571429;
+            background-color: #ffffff;
+            color: #2F3230;
+            padding: 0;
+            margin: 0;
+        }
+        section, footer {
+            display: block;
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 10px;
+        }
+        .response-info {
+            color: #CCCCCC;
+        }
+        .status-code {
+            f
+HOST: 192.198.208.254 PORT: 80
+message:
+HTTP/1.1 200 OK
+Server: nginx/1.6.3
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Content-Type: text/html
+Content-Length: 3700
+Last-Modified: Sun, 04 Oct 2015 07:53:44 GMT
+Connection: keep-alive
+ETag: "5610db08-e74"
+Accept-Ranges: bytes
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>Test Page for the Nginx HTTP Server on Fedora</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style type="text/css">
+            /*<![CDATA[*/
+            body {
+                background-color: #fff;
+                color: #000;
+                font-size: 0.9em;
+                font-family: sans-serif,helvetica;
+                margin: 0;
+                padding: 0;
+            }
+            :link {
+                color: #c00;
+            }
+            :visited {
+                color: #c00;
+            }
+            a:hover {
+                color: #f50;
+            }
+            h1 {
+                text-align: center;
+                margin: 0;
+                padding: 0.6em 2em 0.4em;
+                background-color: #294172;
+                color: #fff;
+                font-weight: normal;
+                font-size: 1.75em;
+                border-bottom: 2px solid #000;
+            }
+            h1 strong {
+                font-weight: bold;
+   
+HOST: 192.198.209.1 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 24 Nov 2016 21:04:31 GMT
+Server: Apache/2.2.10 (Linux/SUSE)
+Location: http://www.vvme.com/
+Content-Length: 313
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.vvme.com/">here</a>.</p>
+<hr>
+<address>Apache/2.2.10 (Linux/SUSE) Server at 192.198.208.164 Port 80</address>
+</body></html>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.vvme.com/">here</a>.</p>
+<hr>
+<address>Apache/2.2.10 (Linux/SUSE) Server at vvme.com Port 80</address>
+</body></html>
+
+HOST: 192.198.209.2 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Server: openresty/1.9.7.2
+Date: Thu, 24 Nov 2016 14:08:55 GMT
+Content-Type: text/html
+Content-Length: 190
+Connection: keep-alive
+Location: https://192.198.208.245/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>openresty/1.9.7.2</center>
+</body>
+</html>
+
+HOST: 192.198.209.3 PORT: 80
+message:
+
+HOST: 192.198.209.5 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 24 Nov 2016 21:04:31 GMT
+Server: Apache/2.2.10 (Linux/SUSE)
+Location: http://www.vvme.com/
+Content-Length: 313
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.vvme.com/">here</a>.</p>
+<hr>
+<address>Apache/2.2.10 (Linux/SUSE) Server at 192.198.208.164 Port 80</address>
+</body></html>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.vvme.com/">here</a>.</p>
+<hr>
+<address>Apache/2.2.10 (Linux/SUSE) Server at vvme.com Port 80</address>
+</body></html>
+
+HOST: 192.198.209.8 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 24 Nov 2016 14:09:11 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: https://ansible.endersgame.net/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Thu, 24 Nov 2016 14:09:11 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+HOST: 192.198.216.180 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9
+Set-Cookie: f92cf7d7337da4f59fa375bedb33dcbc=5rebib33opmnemcdbfqaklgbt6; path=/; HttpOnly
+Expires: Wed, 17 Aug 2005 00:00:00 GMT
+Last-Modified: Thu, 24 Nov 2016 14:09:19 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+3145
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta charset="utf-8" />
+	<base href="http://192.198.208.243:80/" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Home</title>
+	<link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/templates/protostar/css/template.css?e5164c1ddee0b67e0ad4d60b4cf9016b" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" />
+	<link href="/media/com_acymailing/css/module_default.css?v=1465835293" rel="stylesheet" />
+	<style>
+
+	h1, h2, h3, h4, h5, h6, .site-title {
+		font-family: 
+HOST: 192.198.216.180 PORT: 80
+message:
+HTTP/1.1 200 OK
+Server: nginx/1.11.3
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Content-Type: text/html
+Content-Length: 867
+Last-Modified: Wed, 13 Apr 2016 00:00:01 GMT
+Connection: keep-alive
+ETag: "570d8c01-363"
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx on Debian!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx on Debian!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working on Debian. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href="http://nginx.org/">nginx.org</a></p>
+
+<p>
+      Please use the <tt>reportbug</tt> tool to report bugs in the
+      nginx package with Debian. However, check <a
+      href="http://bugs.debian.org/cgi-bin/pkgreport.cgi?ordering=normal;archive=0;src=nginx;repeatmerged=0">existing
+      bug reports</a> before reporting a new bug.
+</p>
+
+<p><em>Thank you for using debian and nginx.</em></p>
+
+
+</body>
+</html>
+HTTP/1.1 400 Bad Request
+Server: nginx/1.11.3
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Content-Type: text/html
+Content-Length: 173
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/1.11.3</center>
+</body>
+</html>
+
+HOST: 192.198.216.180 PORT: 80
+message:
+HTTP/1.1 200 OK
+Server: nginx/1.11.3
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Content-Type: text/html
+Content-Length: 867
+Last-Modified: Wed, 13 Apr 2016 00:00:01 GMT
+Connection: keep-alive
+ETag: "570d8c01-363"
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx on Debian!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx on Debian!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working on Debian. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href="http://nginx.org/">nginx.org</a></p>
+
+<p>
+      Please use the <tt>reportbug</tt> tool to report bugs in the
+      nginx package with Debian. However, check <a
+      href="http://bugs.debian.org/cgi-bin/pkgreport.cgi?ordering=normal;archive=0;src=nginx;repeatmerged=0">existing
+      bug reports</a> before reporting a new bug.
+</p>
+
+<p><em>Thank you for using debian and nginx.</em></p>
+
+
+</body>
+</html>
+HTTP/1.1 400 Bad Request
+Server: nginx/1.11.3
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Content-Type: text/html
+Content-Length: 173
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/1.11.3</center>
+</body>
+</html>
+
+HOST: 192.198.216.180 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Server: openresty/1.9.7.2
+Date: Thu, 24 Nov 2016 14:08:55 GMT
+Content-Type: text/html
+Content-Length: 190
+Connection: keep-alive
+Location: https://192.198.208.245/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>openresty/1.9.7.2</center>
+</body>
+</html>
+HTTP/1.1 400 Bad Request
+Server: openresty/1.9.7.2
+Date: Thu, 24 Nov 2016 14:08:55 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>openresty/1.9.7.2</center>
+</body>
+</html>
+
+HOST: 192.198.216.180 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:19 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9
+Set-Cookie: f92cf7d7337da4f59fa375bedb33dcbc=uch78gg2cje8ii2odug8jcfuk3; path=/; HttpOnly
+Expires: Wed, 17 Aug 2005 00:00:00 GMT
+Last-Modified: Thu, 24 Nov 2016 14:09:19 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+3145
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta charset="utf-8" />
+	<base href="http://192.198.208.245:80/" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Home</title>
+	<link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/templates/protostar/css/template.css?e5164c1ddee0b67e0ad4d60b4cf9016b" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" />
+	<link href="/media/com_acymailing/css/module_default.css?v=1465835293" rel="stylesheet" />
+	<style>
+
+	h1, h2, h3, h4, h5, h6, .site-title {
+		font-family: 'Open Sans', sans-serif;
+	}
+	</style>
+	<script src="/media/jui/js/jquery.min.js"></script>
+	<script src="/media/jui/js/jquery-noconflict.js"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js"></script>
+	<script src="/media/system/js/caption.js"></script>
+	<script src="/media/jui/js/bootstrap.min.js"></script>
+	<script src="/templates/protostar/js/template.js?e5164c1ddee0b67e0ad4d60b4cf9016b"></script>
+	<script src="/media/com_acymailing/js/acymailing_module.js?v=550" async></script>
+	<script>
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});	if(typeof acymailing == 'undefined'){
+					var acymailing = Array();
+				}
+				acymailing['NAMECAPTION'] = 'Your Name';
+				acymailing['NAME_MISSING'] = 'Please enter your name';
+				acymailing['EMAILCAPTION'] = 'Your Email ';
+				acymailing['VALID_EMAIL'] = 'Please enter a valid e-mail address';
+				acymailing['ACCEPT_TERMS'] = 'Please check the Terms and Conditions';
+				acymailing['CAPTCHA_MISSING'] = 'The captcha is invalid, please try again';
+				acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
+		acymailing['reqFieldsformAcymailing56001'] = Array('html');
+		acymailing['validFieldsformAcymailing56001'] = Array('Please enter a value for the field Receive');window.setInterval(function(){var r;try{r=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP")}catch(
+HOST: 192.198.217.24 PORT: 80
+message:
+HTTP/1.1 200 OK
+Server: nginx/1.4.7
+Date: Thu, 24 Nov 2016 14:09:20 GMT
+Content-Type: text/html
+Content-Length: 3700
+Last-Modified: Wed, 22 Oct 2014 19:47:24 GMT
+Connection: keep-alive
+ETag: "544809cc-e74"
+Accept-Ranges: bytes
+
+
+HOST: 192.198.217.26 PORT: 80
+message:
+HTTP/1.1 400 Bad Request
+Content-Type: text/html
+Date: Thu, 24 Nov 2016 14:11:46 GMT
+Connection: close
+Content-Length: 39
+
+<h1>Bad Request (Invalid Hostname)</h1>
+HOST: 192.198.217.27 PORT: 80
+message:
+HTTP/1.1 200 OK
+Connection: close
+Date: Thu, 24 Nov 2016 14:11:46 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: TeraScript_UserReference=9D2CD1F9B9376B1F5836F523; path=/; HttpOnly
+
+
+HOST: 192.198.217.28 PORT: 80
+message:
+HTTP/1.1 400 Bad Request
+Content-Type: text/html
+Date: Thu, 24 Nov 2016 14:11:46 GMT
+Connection: close
+Content-Length: 39
+
+<h1>Bad Request (Invalid Hostname)</h1>
+HOST: 192.198.217.29 PORT: 80
+message:
+HTTP/1.1 400 Bad Request
+Content-Type: text/html
+Date: Thu, 24 Nov 2016 14:11:46 GMT
+Connection: close
+Content-Length: 39
+
+<h1>Bad Request (Invalid Hostname)</h1>
+HOST: 192.198.217.30 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:24 GMT
+Server: Apache/2.2.15 (CentOS)
+Last-Modified: Wed, 09 Apr 2014 06:02:47 GMT
+ETag: "81d16-b0-4f695d9972948"
+Accept-Ranges: bytes
+Content-Length: 176
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<h1>Codefire Monitor</h1>
+<em>Authorization required to proceed</em> - <a href="codefire/">OMD Index for site 'codefire'</a>
+<hr noshade>
+<address>monitor.codefi.re </address>
+
+HOST: 192.198.217.33 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Thu, 24 Nov 2016 14:09:25 GMT
+Server: Apache/2.2.15 (CentOS)
+Location: http://192.198.209.4/ovirt-engine/
+Content-Length: 297
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://192.198.209.4/ovirt-engine/">here</a>.</p>
+<hr>
+<address>Apache/2.2.15 (CentOS) Server at 192.198.209.4 Port 80</address>
+</body></html>
+
+HOST: 192.198.217.49 PORT: 80
+message:
+HTTP/1.1 401 Authorization Required
+Date: Thu, 24 Nov 2016 14:09:20 GMT
+Server: Apache
+WWW-Authenticate: Basic realm="galacide-svn Restricted Area"
+Content-Length: 465
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>401 Authorization Required</title>
+</head><body>
+<h1>Authorization Required</h1>
+<p>This server could not verify that you
+are authorized to access the document
+requested.  Either you supplied the wrong
+credentials (e.g., bad password), or your
+browser doesn't understand how to supply
+the credentials required.</p>
+<hr>
+<address>Apache Server at 192.198.217.29 Port 80</address>
+</body></html>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+</p>
+<hr>
+<address>Apache Server at 172.16.0.25 Port 80</address>
+</body></html>
+
+HOST: 192.198.219.10 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:01 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Thu, 16 Apr 2015 05:11:34 GMT
+ETag: "2cf6-513d07f64947f"
+Accept-Ranges: bytes
+Content-Length: 11510
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!--
+    Modified from the Debian original for Ubuntu
+    Last updated: 2014-03-19
+    See: https://launchpad.net/bugs/1288690
+  -->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Apache2 Ubuntu Default Page: It works</title>
+    <style type="text/css" media="screen">
+  * {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+  }
+
+  body, html {
+    padding: 3px 3px 3px 3px;
+
+    background-color: #D8DBE2;
+
+    font-family: Verdana, sans-serif;
+    font-size: 11pt;
+    text-align: center;
+  }
+
+  div.main_page {
+    position: relative;
+    display: table;
+
+    width: 800px;
+
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0px;
+
+    border-width: 2px;
+    border-color: #212738;
+    border-style: solid;
+
+    background-color: #FFFFFF;
+
+    text-align: center;
+  }
+
+  div.page_header {
+    height: 99px;
+    width: 100%;
+
+    background-color: #F5F6F7;
+  }
+
+  div.page_header span {
+    margin: 15px 0px 0px 50px;
+
+    font-size: 180%;
+    font-weight: bold;
+  }
+
+  div.page_header img {
+    margin: 3px 0px 0px 40px;
+
+    border: 0px 0px 0px;
+  }
+
+  div.table_of_contents {
+    clear: left;
+
+    min-width: 200px;
+
+    margin: 3px 3px 3px 3px;
+
+    background-color: #FFFFFF;
+
+    text-align: left;
+  }
+
+  div.table_of_contents_item {
+    clear: left;
+
+    width: 100%;
+
+    margin: 4px 0px 0px 0px;
+
+    background-color: #FFFFFF;
+
+    color: #000000;
+    text-align: left;
+  }
+
+  div.table_of_contents_item a {
+    margin: 6px 0px 0px 6px;
+  }
+
+  div.content_section {
+    margin: 3px 3px 3px 3px;
+
+    background-color: #FFFFFF;
+
+    text-align: left;
+  }
+
+  div.content_section_text {
+    padding: 4px 8px 4px 8px;
+
+    color: #000000;
+    font-size: 100%;
+  }
+
+  div.content_section_text pre {
+    margin: 8px 0px 8px 0px;
+    padding: 8px 8px 8px 8px;
+
+    border-width: 1px;
+    border-style: dotted;
+    border-color: #000000;
+
+    background-color: #F5F6F7;
+
+    font-style: italic;
+  }
+
+  div.content_section_text p {
+    margin-bottom: 6px;
+  }
+
+  div.content_section_text ul, div.content_section_text li {
+    padding: 4px 8px 4px 16px;
+  }
+
+  div.section_header {
+    padding: 3px 6px 3px 6px;
+
+    background-color: #8E9CB2;
+
+    color: #FFFFFF;
+    font-weight: bold;
+   
+HOST: 192.198.219.21 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:01 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Thu, 16 Apr 2015 05:11:34 GMT
+ETag: "2cf6-513d07f64947f"
+Accept-Ranges: bytes
+Content-Length: 11510
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!--
+    Modified from the Debian original for Ubuntu
+    Last updated: 2014-03-19
+    See: https://launchpad.net/bugs/1288690
+  -->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Apache2 Ubuntu Default Page: It works</title>
+    <style type="text/css" media="screen">
+  * {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+  }
+
+  body, html {
+    padding: 3px 3px 3px 3px;
+
+    background-color: #D8DBE2;
+
+    font-family: Verdana, sans-serif;
+    font-size: 11pt;
+    text-align: center;
+  }
+
+  div.main_page {
+    position: relative;
+    display: table;
+
+    width: 800px;
+
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0px;
+
+    border-width: 2px;
+    border-color: #212738;
+    border-style: solid;
+
+    background-color: #FFFFFF;
+
+    text-align: center;
+  }
+
+  div.page_header {
+    height: 99px;
+    width: 100%
+HOST: 192.198.219.25 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:22 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Sun, 30 Nov 2014 18:26:53 GMT
+ETag: "2cf6-50917a35eef1a"
+Accept-Ranges: bytes
+Content-Length: 11510
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!--
+    Modified from the Debian original for Ubuntu
+    Last updated: 2014-03-19
+    See: https://launchpad.net/bugs/1288690
+  -->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Apache2 Ubuntu Default Page: It works</title>
+    <style type="text/css" media="screen">
+  * {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+  }
+
+  body, html {
+    padding: 3px 3px 3px 3px;
+
+    background-color: #D8DBE2;
+
+    font-family: Verdana, sans-serif;
+    font-size: 11pt;
+    text-align: center;
+  }
+
+  div.main_page {
+    position: relative;
+    display: table;
+
+    width: 800px;
+
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0px;
+
+    border-width: 2px;
+    border-color: #212738;
+    border-style: solid;
+
+    background-color: #FFFFFF;
+
+    text-align: center;
+  }
+
+  div.page_header {
+    height: 99px;
+    width: 100%
+HOST: 192.198.219.26 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:01 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Thu, 16 Apr 2015 05:11:34 GMT
+ETag: "2cf6-513d07f64947f"
+Accept-Ranges: bytes
+Content-Length: 11510
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!--
+    Modified from the Debian original for Ubuntu
+    Last updated: 2014-03-19
+    See: https://launchpad.net/bugs/1288690
+  -->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Apache2 Ubuntu Default Page: It works</title>
+    <style type="text/css" media="screen">
+  * {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+  }
+
+  body, html {
+    padding: 3px 3px 3px 3px;
+
+    background-color: #D8DBE2;
+
+    font-family: Verdana, sans-serif;
+    font-size: 11pt;
+    text-align: center;
+  }
+
+  div.main_page {
+    position: relative;
+    display: table;
+
+    width: 800px;
+
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0px;
+
+    border-width: 2px;
+    border-color: #212738;
+    border-style: solid;
+
+    background-color: #FFFFFF;
+
+    text-align: center;
+  }
+
+  div.page_header {
+    height: 99px;
+    width: 100%
+HOST: 192.198.220.57 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:01 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Thu, 16 Apr 2015 05:11:34 GMT
+ETag: "2cf6-513d07f64947f"
+Accept-Ranges: bytes
+Content-Length: 11510
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!--
+    Modified from the Debian original for Ubuntu
+    Last updated: 2014-03-19
+    See: https://launchpad.net/bugs/1288690
+  -->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Apache2 Ubuntu Default Page: It works</title>
+    <style type="text/css" media="screen">
+  * {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+  }
+
+  body, html {
+    padding: 3px 3px 3px 3px;
+
+    background-color: #D8DBE2;
+
+    font-family: Verdana, sans-serif;
+    font-size: 11pt;
+    text-align: center;
+  }
+
+  div.main_page {
+    position: relative;
+    display: table;
+
+    width: 800px;
+
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0px;
+
+    border-width: 2px;
+    border-color: #212738;
+    border-style: solid;
+
+    background-color: #FFFFFF;
+
+    text-align: center;
+  }
+
+  div.page_header {
+    height: 99px;
+    width: 100%
+HOST: 192.198.220.62 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 14:09:01 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Thu, 16 Apr 2015 05:11:34 GMT
+ETag: "2cf6-513d07f64947f"
+Accept-Ranges: bytes
+Content-Length: 11510
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!--
+    Modified from the Debian original for Ubuntu
+    Last updated: 2014-03-19
+    See: https://launchpad.net/bugs/1288690
+  -->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Apache2 Ubuntu Default Page: It works</title>
+    <style type="text/css" media="screen">
+  * {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+  }
+
+  body, html {
+    padding: 3px 3px 3px 3px;
+
+    background-color: #D8DBE2;
+
+    font-family: Verdana, sans-serif;
+    font-size: 11pt;
+    text-align: center;
+  }
+
+  div.main_page {
+    position: relative;
+    display: table;
+
+    width: 800px;
+
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0px;
+
+    border-width: 2px;
+    border-color: #212738;
+    border-style: solid;
+
+    background-color: #FFFFFF;
+
+    text-align: center;
+  }
+
+  div.page_header {
+    height: 99px;
+    width: 100%
+HOST: 192.198.241.27 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:09:20 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.241.28 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:09:20 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.241.41 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:09:20 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.241.42 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:09:20 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.241.42 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:09:20 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.241.49 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:09:20 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.241.53 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:09:20 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.241.53 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:09:20 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.241.58 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:09:09 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.241.58 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:09:09 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.241.65 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0o-1636569050.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.241.9/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=" + escape (value) +
+
+HOST: 192.198.241.66 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0o-1636569050.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.241.9/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=" + escape (value) +
+
+HOST: 192.198.241.73 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0o-1636569050.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.241.9/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=" + escape (value) +
+
+HOST: 192.198.241.97 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 02 Dec 2010 15:05:55 UTC
+Content-Type: text/html
+Content-Length: 59209
+Connection: Close
+
+
+HOST: 192.198.241.99 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 02 Dec 2010 15:05:55 UTC
+Content-Type: text/html
+Content-Length: 59209
+Connection: Close
+
+
+HOST: 192.198.241.105 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 02 Dec 2010 15:05:55 UTC
+Content-Type: text/html
+Content-Length: 59209
+Connection: Close
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html> 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+<script type="text/javascript" src="wt.js"></script>
+<script type="text/javascript" src="m.js"></script>
+<script type="text/javascript" src="cap.js"></script>
+<script type="text/javascript" src="qt.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="m.css" />
+<script>
+	// try{
+		//document.execCommand('BackgroundImageCache', false, true);
+		//}
+//catch(e) {}
+</script>
+<script>
+var gdomready=0;
+var gopenall=0;
+var gsld;
+var gslda;
+var gsldb;
+var gsldc;
+var gsldd;
+//var gslde;
+var gca=0;
+var gcb=0;
+var gcc=0;
+var gcd=0;
+var gwid=0;
+var gcid=-1;
+var gptz=0;
+var gxh=0;
+var gxz=0;
+var gxs=0;
+var gxj=0;
+var gdj=0;
+var gdg=0;
+var gfmu1=0;
+var gfmu2=0;
+var gfmnudj=0;
+var gomnudj=null;
+var gfmnuopen=0;
+var gomnuopen=null;
+var i=0;
+var j=0;
+var glhight=0;
+var
+HOST: 192.198.241.121 PORT: 80
+message:
+HTTP/1.1 302 Redirect
+Date: Thu, 24 Nov 2016 08:09:27 GMT
+Server: GoAhead-Webs
+Pragma: no-cache
+Cache-Control: no-cache,must-revalidate
+Content-Type: text/html
+Location: http://192.198.241.75/login/
+Transfer-Encoding: chunked
+
+c5
+<html><head></head><body>
+		This document has moved to a new <a href="http://127.0.0.1:2349/login/">location</a>.
+		Please update your documents to reflect the new location.
+		</body></html>
+
+
+
+HOST: 192.198.241.123 PORT: 80
+message:
+HTTP/1.1 200 OK
+X-UA-Compatible: IE=EmulateIE7, requiresActiveX=true
+X-Powered-By: PHP/5.2.0
+Set-Cookie: NVR_MODEL_CODE=400; path=/
+Set-Cookie: NVR_MODEL_NAME=SRN-4000; path=/
+Set-Cookie: EPOS_SUPPORT=1; path=/
+Set-Cookie: VIDEO_SUMMARY_SUPPORT=1; path=/
+Set-Cookie: CHANNEL_COUNT=64; path=/
+Set-Cookie: LANGUAGE_SUPPORT=16777215; path=/
+Set-Cookie: POWEROFF_ALARMOUT_SUPPORT=0; path=/
+Set-Cookie: NUM_ALARM_IN=8; path=/
+Set-Cookie: NUM_ALARM_OUT=4; path=/
+Set-Cookie: CAMERA_DEFAULT_PW_SUPPORT=1; path=/
+Set-Cookie: KEEP_ASPECT_RATIO_SUPPORT=1; path=/
+Set-Cookie: TOE_SUPPORT=0; path=/
+Set-Cookie: MAX_SEARCH_USER_NUMBER=1; path=/
+Set-Cookie: VPM_KINDERGARTEN_SUPPORT=0; path=/
+Set-Cookie: NVR_MODEL_CODE=400; path=/
+Set-Cookie: NVR_MODEL_NAME=SRN-4000; path=/
+Set-Cookie: EPOS_SUPPORT=1; path=/
+Set-Cookie: VIDEO_SUMMARY_SUPPORT=1; path=/
+Set-Cookie: CHANNEL_COUNT=64; path=/
+Set-Cookie: LANGUAGE_SUPPORT=16777215; path=/
+Set-Cookie: POWEROFF_ALARMOUT_SUPPORT=0; path=/
+Set-Cookie: NUM_ALARM_IN=8; path=/
+Set-Cookie: NUM_ALARM_OUT=4; path=/
+Set-Cookie: CAMERA_DEFAULT_PW_SUPPORT=1; path=/
+Set-Cookie: KEEP_ASPECT_RATIO_SUPPORT=1; path=/
+Set-Cookie: TOE_SUPPORT=0; path=/
+Set-Cookie: MAX_SEARCH_USER_NUMBER=1; path=/
+Set-Cookie: VPM_KINDERGARTEN_SUPPORT=0; path=/
+Set-Cookie: POE_SWITCH_STATUS=0; path=/
+Set-Cookie: nvr_lang=0; path=/
+Set-Cookie: setup1=deleted; expires=Wed, 25-Nov-2015 14:09:26 GMT; 
+HOST: 192.198.241.137 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.242.70 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.242.73 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0o-791405375.css" TYPE="text/css">
+<script type="text/JavaScript">
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.241.124/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	top.location.href = jumpURL;
+}
+</script>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" marginwidth="0" marginheight="0" class="popup_error_bg">
+<div align="center"><br>
+	<br>
+	<table width="400"  border="0" cellpadding="1" cellspacing="0" bgcolor="#CCCCCC" summary="">
+		<tr>
+			<td>
+				<table width="100&#37;"  border="0" cellpadding="20" cellspacing="0" bgcolor="#FFFFFF" summary="">
+					<tr>
+						<td>Please be patient as you are being re-directed to <a href="https://192.198.241.124/auth.html" target="_top">a secure login page</a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</div>
+</body>
+</html>
+HOST: 192.198.242.78 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: GeoHttpServer
+Date: Thu, 24 Nov 2016 14:09:36 GMT
+Content-type: text/html
+Content-length: 5833
+Authentication: test
+Last-Modified: Thu, 24 Nov 2016 06:09:36 GMT
+
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+
+<title>Login</title>
+
+<script language="JavaScript1.2" src="Language.js" type="text/javascript"></script>
+
+<style type="text/css">
+
+a:hover{
+
+	color:#FF9900
+}
+
+.btn{
+
+	height: 25px;
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#cecfde); 
+	padding:0px 0.5em 0px 0.5em;
+}
+
+</style>
+
+<script language="JavaScript">
+
+var caution = false;
+var id;
+var pwd;
+
+function SetCookie( name, value)
+{  
+   
+	now=new Date( );
+	now.setTime( now.getTime( ) + 30*24*60*60*1000 );
+	var curCookie=name + "=" + escape(value) + "; expires=" + now.toGMTString( );
+
+	if (!caution || (name + "=" + escape(value)).length <= 400
+HOST: 192.198.242.161 PORT: 80
+message:
+HTTP/1.1 302 Found
+Content-Length: 0
+Location: /login.htm
+Connection: close
+Date: Thu, 24 Nov 2016 14:09:27 GMT
+Server: lighttpd/1.4.26
+
+
+HOST: 192.198.242.194 PORT: 80
+message:
+HTTP/1.1 200 Ok
+Date: Thu, 24 Nov 2016 09:20:39 GMT
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+	<head>
+		<TITLE>Web Application Manager</TITLE>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<script language="JavaScript" type="text/JavaScript">
+<!--
+var username="";
+var language="";
+function init()
+{
+
+}
+function getLang()
+{  //alert(language);
+	return language;
+}
+function getXMLUrl()
+{
+	var url = "language/"+getLang()+".xml";
+	return url;
+}
+function getXmlData()
+{
+	//alert("top.frames.frmResource.document.all.XMLLanguage.xml="+top.frames.frmResource.document.all.XMLLanguage.xml);
+	try{
+		return top.frames.frmResource.document.XMLDocument.xml;
+	}catch(e)
+	{
+		top.status=e.message;
+		return "";
+	}
+}
+function exit()
+{
+	var url="exit.html?action=set";
+	url+="&username="+username;
+	//window.open(url,"exit","top=5000,left=5000,height=1,width=0"); 
+	top.frames.resultFrame.location=url;
+	return false;
+}
+var xmlstr = "";
+function loadLanguage( xmlObj )
+{
+	var i=10;
+	while( xmlstr == "" || xmlstr == null )
+	{
+		xmlstr = getXmlData();
+		if( --i<0) break;
+	}
+	if( xmlObj && xmlObj.XMLDocument )
+	{
+		xmlObj.XMLDocument.loadXML( xmlstr );
+	}
+}	
+function setUserName( user )
+{
+	username=user;
+}
+function setLanguage( lang )
+{
+	if( language != lang )
+	{
+		language=lang;
+		top.frames.frmResource.location = getXMLUrl();
+	}
+}
+
+//-->
+		</script>
+	</head>
+	<frameset rows="*,0,0" frameborder="NO" border="0" framespacing="0" onLoad="init()" onbeforeunload="exit();">
+	<frame id="mainFrame" name="mainFrame" frameborder="0"  src="play.html">
+	<frame   name="frmResource" id="frmResource">
+	<frame   name="resultFrame" id="resultFrame">
+	</frameset>
+	<noframes>
+		<body>please use internet explorer 5.0+
+		</body>
+	</noframes>
+</html>
+
+HOST: 192.198.243.90 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.243.93 PORT: 80
+message:
+HTTP/1.1 401 Unauthorized
+Date: Thu, 24 Nov 2016 14:09:28 GMT
+Server: cisco-IOS
+Connection: close
+Accept-Ranges: none
+WWW-Authenticate: Basic realm="level_15 or view_access"
+
+401 Unauthorized
+
+HOST: 192.198.243.113 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.243.114 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.243.121 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.243.122 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.243.123 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.243.124 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.243.125 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.246.73 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.246.106 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.246.113 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Thu, 24 Nov 2016 08:09:28 GMT
+Server: DNVRS-Webs
+ETag: "248-4d0-1e0"
+Content-Length: 480
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+Last-Modified: Fri, 11 Mar 2016 02:04:37 GMT
+
+
+HOST: 192.198.246.146 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.246.153 PORT: 80
+message:
+HTTP/1.1 200 OK
+Server:Cross Web Server
+Content-length: 3233
+Content-type: text/html
+
+
+HOST: 192.198.246.170 PORT: 80
+message:
+HTTP/1.1 403 Forbidden
+Content-Type: text/html
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Thu, 24 Nov 2016 14:09:29 GMT
+Content-Length: 1233
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>403 - Forbidden: Access is denied.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>403 - Forbidden: Access is denied.</h2>
+  <h3>You do not have permission to view this directory or page using the credentials that you supplied.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>
+
+HOST: 192.198.246.185 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.246.185 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://0.0.0.0:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.246.193 PORT: 80
+message:
+HTTP/1.1 302 Object Moved
+Location: http://www.ppnhco.com
+Server: Microsoft-IIS/5.0
+Content-Type: text/html
+Content-Length: 144
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="http://www.ppnhco.com">here</a></body>
+HOST: 192.198.247.254 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0o-3355524508.css" TYPE="text/css">
+<script type="text/JavaScript">
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.246.170/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	top.location.href = jumpURL;
+}
+</script>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" marginwidth="0" marginheight="0" class="popup_error_bg">
+<div align="center"><br>
+	<br>
+	<table width="400"  border="0" cellpadding="1" cellspacing="0" bgcolor="#CCCCCC" summary="">
+		<tr>
+			<td>
+				<table width="100&#37;"  border="0" cellpadding="20" cellspacing="0" bgcolor="#FFFFFF" summary="">
+					<tr>
+						<td>Please be patient as you are being re-directed to <a href="https://192.198.246.170/auth.html" target="_top">a secure login page</a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</div>
+</body>
+</html>
+HOST: 192.198.247.254 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0o-3355524508.css" TYPE="text/css">
+<script type="text/JavaScript">
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.246.170/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	top.location.href = jumpURL;
+}
+</script>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" marginwidth="0" marginheight="0" class="popup_error_bg">
+<div align="center"><br>
+	<br>
+	<table width="400"  border="0" cellpadding="1" cellspacing="0" bgcolor="#CCCCCC" summary="">
+		<tr>
+			<td>
+				<table width="100&#37;"  border="0" cellpadding="20" cellspacing="0" bgcolor="#FFFFFF" summary="">
+					<tr>
+						<td>Please be patient as you are being re-directed to <a href="https://192.198.246.170/auth.html" target="_top">a secure login page</a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</div>
+</body>
+</html>
+HOST: 192.198.248.2 PORT: 80
+message:
+
+HOST: 192.198.248.17 PORT: 80
+message:
+
+HOST: 192.198.248.25 PORT: 80
+message:
+
+HOST: 192.198.248.26 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.248.27 PORT: 80
+message:
+
+HOST: 192.198.248.41 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.248.42 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.248.43 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.248.61 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.248.62 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.248.65 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.248.66 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.248.67 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.248.73 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.248.74 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.248.75 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Thu, 24 Nov 2016 14:09:31 GMT
+Server: Apache/2.2.14 (Unix)
+Location: http://192.198.248.2/home
+Content-Length: 209
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://192.198.248.2/home">here</a>.</p>
+</body></html>
+
+HOST: 192.198.248.89 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Thu, 24 Nov 2016 14:09:31 GMT
+Server: Apache/2.2.14 (Unix)
+Location: http://192.198.248.2/home
+Content-Length: 209
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://192.198.248.2/home">here</a>.</p>
+</body></html>
+
+HOST: 192.198.248.90 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=" + escape (value) +
+	((expires == null) ? "" : ("; expires=" + expires.toGMTString()
+HOST: 192.198.248.91 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.248.225 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=" + escape (value) +
+	((expires == null) ? "" : ("; expires=" + expires.toGMTString()
+HOST: 192.198.249.46 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=" + escape (value) +
+	((expires == null) ? "" : ("; expires=" + expires.toGMTString()
+HOST: 192.198.249.49 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.249.50 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.249.51 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.249.55 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.249.56 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.249.57 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.249.73 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.249.74 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.249.75 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.249.89 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=" + escape (value) +
+	((expires == null) ? "" : ("; expires=" + expires.toGMTString()
+HOST: 192.198.249.89 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=" + escape (value) +
+	((expires == null) ? "" : ("; expires=" + expires.toGMTString()
+HOST: 192.198.249.97 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.249.98 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.249.99 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=" + escape (value) +
+	((expires == null) ? "" : ("; expires=" + expires.toGMTString()
+HOST: 192.198.249.99 PORT: 80
+message:
+HTTP/1.0 200 OK
+Server: SonicWALL
+Expires: -1
+Cache-Control: no-cache
+Content-type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>Document Moved</title>
+<meta name="id" content="docJump" >
+<link rel=stylesheet href="swl_styles-5.0.0-238527734.css" TYPE="text/css">
+<script type="text/JavaScript">
+var resetSecureFlag = false;
+setTimeout("goJump();", 1000);
+function goJump() {
+	var jumpURL = "https://192.198.248.2/auth.html";
+	var jumpProt = jumpURL.substr(0,6).toLowerCase();
+	var ix;
+	if (jumpProt.substr(0,4) == "http" && (ix = jumpProt.indexOf(":")) != -1) {
+		jumpProt = jumpProt.substr(0,ix+1);
+		if (location.protocol.toLowerCase() != jumpProt) {
+			window.opener = null;
+			top.opener = null;
+		}
+	}
+	if (resetSecureFlag) {
+		var sessId = getCookie("SessId");
+		var pageSeed = getCookie("PageSeed");
+		if (sessId) { setCookie("SessId", sessId); }
+		if (pageSeed) { setCookie("PageSeed", pageSeed); }
+	}
+	top.location.href = jumpURL;
+}
+function setCookie(key, value) {
+  var argv = setCookie.arguments;
+  var argc = setCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = key + "=
+HOST: 192.198.249.145 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Thu, 24 Nov 2016 14:09:32 GMT
+Server: Apache/2.2.14 (Unix)
+Location: http://192.198.249.99/home
+Content-Length: 210
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://192.198.249.99/home">here</a>.</p>
+</body></html>
+
+HOST: 192.198.249.146 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Thu, 24 Nov 2016 14:09:32 GMT
+Server: Apache/2.2.14 (Unix)
+Location: http://192.198.249.115/home
+Content-Length: 211
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://192.198.249.115/home">here</a>.</p>
+</body></html>
+
+HOST: 192.198.249.147 PORT: 80
+message:
+HTTP/1.0 302 Redirect
+Server: UPnP/1.0 UPnP-Device-Host/1.0
+Location: http://192.168.0.1:80
+Content-type: text/html
+Connection: close
+
+
+HOST: 192.198.249.161 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Mon, 24 Sep 2012 15:48:22 GMT
+Accept-Ranges: bytes
+ETag: "fd42ad66c9acd1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Thu, 24 Nov 2016 14:09:31 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:09:31 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+HOST: 192.198.250.74 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Thu, 24 Nov 2016 14:09:32 GMT
+Server: Apache/2.2.14 (Unix)
+Location: http://192.198.249.146/home
+Content-Length: 211
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://192.198.249.146/home">here</a>.</p>
+</body></html>
+
+HOST: 192.198.250.75 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Thu, 24 Nov 2016 14:09:31 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+HOST: 192.198.250.97 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Thu, 24 Nov 2016 14:09:33 GMT
+Server: Apache/2.2.14 (Unix)
+Location: http://192.198.250.97/home
+Content-Length: 210
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://192.198.250.97/home">here</a>.</p>
+</body></html>
+
